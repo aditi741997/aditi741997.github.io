@@ -10,9 +10,9 @@ description: Aditi Partap's website
 <!-- Screen Shot 2021-10-10 at 11.17.23 PM.png -->
 ---
 
-<!-- <span style="font-family:'Candara Light';"> -->
+<span style="font-family:'Candara Light';">
 I am a second year CS Ph.D. student at Stanford University, where I work on security and cryptography research. I am advised by [Dan Boneh](https://crypto.stanford.edu/~dabo/).
-<!-- </span> -->
+</span>
 
 <span style="font-family:'Candara Light';">
 Prior to joining Stanford, I completed my Masters in May 2021 from University of Illinois at Urbana Champaign, where I built Catan, a CPU scheduling framework for Robotics & AR/VR. I was advised by [Radhika Mittal](http://radhikam.web.illinois.edu/) and [Brighten Godfrey](https://pbg.cs.illinois.edu/). In the summer of 2021, I interned at Microsoft Research with the [RFI](https://www.microsoft.com/en-us/research/group/research-for-industry/) group, where I worked with [Ranveer Chandra](https://www.microsoft.com/en-us/research/people/ranveer/) and [Anirudh Badam](https://www.microsoft.com/en-us/research/people/anbadam/) on leveraging AI to improve agricultural crop production. 
@@ -26,12 +26,13 @@ A little more history - I received my bachelors degree in Computer Science from 
 Apart from work, I enjoy cooking, travelling and learning random things via Twitter :)
 </span>
 
-\[[CV](https://aditipartap97.github.io/Aditi_CV_Updated.pdf)\]  \[[Google Scholar](https://scholar.google.com/citations?user=XYNtWYwAAAAJ&hl=en)\]
+\[[CV](https://aditi741997.github.io/Aditi_CV_Updated.pdf)\]  \[[Google Scholar](https://scholar.google.com/citations?user=XYNtWYwAAAAJ&hl=en)\]
 
 ---
 
 ## <span style="font-family:'Candara Light';">Publications</span>
-- [Accountable Threshold Signatures with Proactive Refresh](https://eprint.iacr.org/2022/1656}) <br>
+
+- [Accountable Threshold Signatures with Proactive Refresh](https://eprint.iacr.org/2022/1656) <br>
     Dan Boneh, *Aditi Partap*, Lior Rotem. <br>
     *In submission at EuroCrypt'23*
 
@@ -39,21 +40,21 @@ Apart from work, I enjoy cooking, travelling and learning random things via Twit
     *Aditi Partap*, Dan Boneh. <br>
     *In submission at EuroS&P'23*
 
-<!-- - []() <br>
-    .., *Aditi Partap*,. <br>
-    **
+- [DeepG2P: Fusing Multi-Modal Data to Improve Crop Production](https://arxiv.org/abs/2211.05986) <br>
+    Swati Sharma, *Aditi Partap*, Maria Angels de Luis Balaguer, Sara Malvar, Ranveer Chandra. <br>
+    *In submission at AISTATS'23*
 
-- []() <br>
-    .., *Aditi Partap*,. <br>
-    **
+- [Fast and efficient lookups via data-driven FIB designs](https://dl.acm.org/doi/10.1145/3527974.3545728) <br>
+    Sachin Ashok, *Aditi Partap*, Ammar Tahir. <br>
+    *In Proceedings of the ACM SIGCOMM Workshop on Future of Internet Routing \& Addressing (FIRA), 2022*
 
-- []() <br>
-    .., *Aditi Partap*,. <br>
-    **
+- [On-Device CPU Scheduling for Sense-React Systems](https://arxiv.org/abs/2207.13280) <br>
+    *Aditi Partap*,Samuel Grayson, Muhammad Huzaifa, Sarita V. Adve, Brighten Godfrey, Saurabh Gupta, Kris Hauser, Radhika Mittal. <br>
+    *In International Conference on Intelligent Robots and Systems (IROS), 2022*
 
-- []() <br>
-    .., *Aditi Partap*,. <br>
-    ** -->
+- [Answering POI-recommendation Questions using Tourism Reviews](https://dl.acm.org/doi/10.1145/3459637.3482320) <br>
+    Danish Contractor, Krunal Shah, *Aditi Partap*, Parag Singla, Mausam. <br>
+    *In Proceedings of the 30th ACM International Conference on Information \& Knowledge Management (CIKM), 2021*
 
 ---
 
@@ -75,7 +76,7 @@ Apart from work, I enjoy cooking, travelling and learning random things via Twit
 
 ## <span style="font-family:'Candara Light';"> Activities & Service </span>
 
-- Designed a puzzle for ZK-Hacks III, based on the Cheon attack, that can break the security of zk-SNARKs. Used arkworks to develop the [https://zkhack.dev/zkhackIII/puzzleT2.html](puzzle).
+- Designed a puzzle for ZK-Hacks III, based on the Cheon attack, that can break the security of zk-SNARKs. Used arkworks to develop the [puzzle](https://zkhack.dev/zkhackIII/puzzleT2.html).
 - Among Top 100} students selected from universities across Europe, Asia & the Americas to attend the Cornell, Maryland, Max Planck Pre-doctoral Research School ({CMMRS}), 2018. 
 - Co-chaired the Programmable networks session at HotNets'20.
 - Undergraduate {Teaching Assistant} for Programming Languages course during Spring, 2018 and Data Structures & Algorithms course during Fall, 2017.
