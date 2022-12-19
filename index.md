@@ -60,34 +60,40 @@ Apart from work, I enjoy cooking, travelling and learning random things via Twit
 
 ## <span style="font-family:'Candara Light';"> Research Experience</span>
 
-
+<span style="font-family:'Candara Light';">
 - Research Intern @ MSR Redmond, Summer 2021
 - Research Intern @ MIT, Summer 2018
+</span>
 
 ---
 
 ## <span style="font-family:'Candara Light';"> Industry Experience</span>
 
-
+<span style="font-family:'Candara Light';">
 - Software Engineer at PowerBI @Microsoft, December 2018 - August 2018
 - Software Engineering Intern @Microsoft, Summer 2017
+</span>
 
 ---
 
 ## <span style="font-family:'Candara Light';"> Activities & Service </span>
 
+<span style="font-family:'Candara Light';">
 - Designed a puzzle for ZK-Hacks III, based on the Cheon attack, that can break the security of zk-SNARKs. Used arkworks to develop the [puzzle](https://zkhack.dev/zkhackIII/puzzleT2.html).
-- Among Top 100} students selected from universities across Europe, Asia & the Americas to attend the Cornell, Maryland, Max Planck Pre-doctoral Research School ({CMMRS}), 2018. 
+- Among Top 100 students selected from universities across Europe, Asia & the Americas to attend the Cornell, Maryland, Max Planck Pre-doctoral Research School (CMMRS), 2018. 
 - Co-chaired the Programmable networks session at HotNets'20.
-- Undergraduate {Teaching Assistant} for Programming Languages course during Spring, 2018 and Data Structures & Algorithms course during Fall, 2017.
+- Undergraduate Teaching Assistant for Programming Languages course during Spring, 2018 and Data Structures & Algorithms course during Fall, 2017.
+</span>
 
 ___
 
 ## <span style="font-family:'Candara Light';">Contact</span>
 
+<span style="font-family:'Candara Light';">
 You can contact me by sending an email to aditi712 at stanford.edu.
 
 \[[Github](https://github.com/aditi741997)\] \[[LinkedIn](https://www.linkedin.com/in/aditi-partap-28611ab2/)\] \[[FB](https://www.facebook.com/aditi.partap/)\]
+</span>
 
 
 
