@@ -4,7 +4,7 @@ title: Aditi Partap
 description: Aditi Partap's website
 ---
 
-# Aditi Partap
+# <span style="font-family:'Candara Light';"> Aditi Partap </span>
 <img src="/static/prof_pic.jpg" alt="Aditi" style="width: 220px; height: 210px; float: right; margin: 10px"/>
 <!-- ![Kapil](/static/PXL_20210829_150802540.PORTRAIT.jpg) -->
 <!-- Screen Shot 2021-10-10 at 11.17.23 PM.png -->
@@ -32,6 +32,7 @@ Apart from work, I enjoy cooking, travelling and learning random things via Twit
 
 ## <span style="font-family:'Candara Light';">Publications</span>
 
+<p style="font-family:'Candara Light';">
 - [Accountable Threshold Signatures with Proactive Refresh](https://eprint.iacr.org/2022/1656) <br>
     Dan Boneh, *Aditi Partap*, Lior Rotem. <br>
     *In submission at EuroCrypt'23*
@@ -55,6 +56,7 @@ Apart from work, I enjoy cooking, travelling and learning random things via Twit
 - [Answering POI-recommendation Questions using Tourism Reviews](https://dl.acm.org/doi/10.1145/3459637.3482320) <br>
     Danish Contractor, Krunal Shah, *Aditi Partap*, Parag Singla, Mausam. <br>
     *In Proceedings of the 30th ACM International Conference on Information \& Knowledge Management (CIKM), 2021*
+</p>
 
 ---
 
@@ -91,9 +93,10 @@ ___
 
 <span style="font-family:'Candara Light';">
 You can contact me by sending an email to aditi712 at stanford.edu.
+</span>
 
 \[[Github](https://github.com/aditi741997)\] \[[LinkedIn](https://www.linkedin.com/in/aditi-partap-28611ab2/)\] \[[FB](https://www.facebook.com/aditi.partap/)\]
-</span>
+
 
 
 
