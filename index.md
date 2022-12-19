@@ -1,101 +1,92 @@
 ---
 layout: default
-title: Kapil Vaidya
-description: stuff
+title: Aditi Partap
+description: Aditi Partap's website
 ---
 
 # Kapil Vaidya
-<img src="/static/new_haven.png" alt="Kapil" style="width: 220px; height: 210px; float: right; margin: 10px"/>
+<img src="/static/prof_pic.jpg" alt="Aditi" style="width: 220px; height: 210px; float: right; margin: 10px"/>
 <!-- ![Kapil](/static/PXL_20210829_150802540.PORTRAIT.jpg) -->
 <!-- Screen Shot 2021-10-10 at 11.17.23 PM.png -->
 ---
 
-I am a fourth year CS PhD in the MIT [Data Systems Group](http://dsg.csail.mit.edu/), where I work on applying machine learning to database systems. I am advised by [Prof. Tim Kraska](http://people.csail.mit.edu/kraska/). 
+<span style="font-family:'Candara Light';">
+I am a second year CS Ph.D. student at Stanford University, where I work on security and cryptography research. I am advised by [Dan Boneh](https://crypto.stanford.edu/~dabo/).
+</span>
 
-I also collaborate with [Prof. Michael Mitzenmacher](https://www.eecs.harvard.edu/~michaelm/) on learned filters. I have interned at Microsoft Research with [Anshuman Dutt](https://www.microsoft.com/en-us/research/people/andut/), [Vivek Narasayya](https://www.microsoft.com/en-us/research/people/viveknar/) and [Surajit Chaudhuri](https://www.microsoft.com/en-us/research/people/surajitc/) from the [DMX](https://www.microsoft.com/en-us/research/group/data-management-exploration-and-mining-dmx/) group on learned query optimisation. I completed my bachelors in Computer Science at IIT Bombay where I worked with [Prof. Sudarshan](https://www.cse.iitb.ac.in/~sudarsha/). 
+<span style="font-family:'Candara Light';">
+Prior to joining Stanford, I completed my Masters in May 2021 from University of Illinois at Urbana Champaign, where I built Catan, a CPU scheduling framework for Robotics & AR/VR. I was advised by [Radhika Mittal](http://radhikam.web.illinois.edu/) and [Brighten Godfrey](https://pbg.cs.illinois.edu/). In the summer of 2021, I interned at Microsoft Research with the [RFI](https://www.microsoft.com/en-us/research/group/research-for-industry/) group, where I worked with [Ranveer Chandra](https://www.microsoft.com/en-us/research/people/ranveer/) and [Anirudh Badam](https://www.microsoft.com/en-us/research/people/anbadam/) on leveraging AI to improve agricultural crop production. 
+</span>
 
-\[[CV](https://kapilvaidya24.github.io/cv.pdf)\] \[[Google Scholar](https://scholar.google.com/citations?user=AsvFQLkAAAAJ&hl=en&oi=ao)\]
- 
+<span style="font-family:'Candara Light';">
+A little more history - I received my bachelors degree in Computer Science from IIT Delhi in 2018 where I worked with [Parag Singla](https://www.cse.iitd.ac.in/~parags/) and [Mausam](https://www.cse.iitd.ac.in/~mausam/) on large scale question answering using tourism data. I pursued an internship with [Dina Katabi](https://www.csail.mit.edu/person/dina-katabi) in the summer of 2018, during which I worked on enhancing reliability of [Emerald](https://www.emeraldinno.com/), a globally distributed IoT system. I also worked as a software engineer in the [PowerBI](https://powerbi.microsoft.com/en-us/) team at Microsoft Vancouver for a year before joining UIUC.
+</span>
 
+<span style="font-family:'Candara Light';">
+Apart from work, I enjoy cooking, travelling and learning random things via Twitter :)
+</span>
 
-
-
-
----
-
-## Publications
-
-- [Can Models Replace Hash Functions?](https://drive.google.com/file/d/1ZEn1Q11pfoejiXIe3HxH_ILSxdeVvcgy/view?usp=sharing).<br>
- **Kapil Vaidya\***, Ibrahim Sabek\*, Dominik Horn, Andreas Kipf, Michael Mitzenmacher and Tim Kraska. <br>
-*in submission at VLDB 2023*.
-
-- [SNARF: A Learning-Enhanced Range Filter](https://dl.acm.org/doi/10.14778/3529337.3529347).\[[code](https://github.com/kapilvaidya24/SNARF)\]<br>
- **Kapil Vaidya**,  Subarna Chatterjee, Eric Knorr, Stratos Idreos, Michael Mitzenmacher and Tim Kraska. <br>
-*VLDB 2022*.
-
-- [Leveraging Query Logs and Machine Learning for Parametric Query Optimization](https://dl.acm.org/doi/pdf/10.14778/3494124.3494126).<br>
-**Kapil Vaidya**, Anshuman Dutt, Vivek Narasayya and Surajit Chaudhari. <br>
-*VLDB 2022*.
-
-- [Partitioned Learned Bloom Filter](https://openreview.net/forum?id=6BRLOfrMhW). \[[Quanta Magazine](https://www.quantamagazine.org/machine-learning-reimagines-the-building-blocks-of-computing-20220315/)]\[[code](https://github.com/kapilvaidya24/PLBF)\] <br>
- **Kapil Vaidya**, Eric Knorr, Michael Mitzenmacher and Tim Kraska. <br>
-*ICLR 2021*.
-
-- [The Case for a Learned Sorting Algorithm.](https://dl.acm.org/doi/10.1145/3318464.3389752) \[[The morning paper](https://blog.acolyer.org/2020/10/19/the-case-for-a-learned-sorting-algorithm/)\] \[[code](https://github.com/learnedsystems/LearnedSort)\] \[[HackerNews](https://news.ycombinator.com/item?id=24823611)\] \[[Reddit](https://www.reddit.com/r/programming/comments/je87ky/the_case_for_a_learned_sorting_algorithm/)\] <br>
- **Kapil Vaidya\***, Ani Kristo\*, Ugur Cetintemel,  Sanchit  Misra,  and  Tim  Kraska. <br>
-*SIGMOD 2020*.
-
-- [When Are Learned Models Better Than Hash Functions?.](https://arxiv.org/abs/2107.01464#:~:text=For%20Cuckoo%20hash%20tables%2C%20in,and%20with%20a%20limited%20margin.) <br>
-**Kapil  Vaidya\***,  IbrahimSabek\*, Dominik Horn, Andreas Kipf, and Tim Kraska.   <br>
-*AIDB Workshop @ VLDB 2021*.
-
-- [Defeating duplicates: A re-design of the LearnedSort algorithm.](https://arxiv.org/abs/2107.03290) \[[blog](http://learnedsystems.mit.edu/defeating-dups-learned-sort/)\] <br>
-Ani Kristo, **Kapil Vaidya**,  and  Tim  Kraska.   <br>
-*AIDB Workshop @ VLDB 2021*.
-
-- [Ultra-Fast Bit-Level Frequency-Hopping Transmitter for Securing Low-PowerWireless Devices.](https://ieeexplore.ieee.org/document/8428994) [[news](https://news.mit.edu/2018/novel-transmitter-protects-wireless-data-hackers-0611)]<br>
- Rabia  Tugce  Yazicigil,  Phillip  Nadeau,  Daniel  Richman,  Chiraag  Ju-vekar,  **Kapil  Vaidya**,  and  Anantha  P.  Chandrakasan. <br>
-*IEEE Radio Frequency Inte-grated Circuits Symposium (RFIC) 2018*.
-
-- [Data-Centric Dynamic Partial Order Reduction.](https://arxiv.org/abs/1610.01188) <br>
- Marek  Chalupa,  Krishnendu  Chat-terjee, Andreas Pavlogiannis, Nishant Sinha, and  **Kapil  Vaidya** <br>
-*POPL 2017*.
+\[[CV](https://aditipartap97.github.io/Aditi_CV_Updated.pdf)\]  \[[Google Scholar](https://scholar.google.com/citations?user=XYNtWYwAAAAJ&hl=en)\]
 
 ---
 
-## Experience
+## <span style="font-family:'Candara Light';">Publications</span>
+- [Accountable Threshold Signatures with Proactive Refresh](https://eprint.iacr.org/2022/1656}) <br>
+    Dan Boneh, *Aditi Partap*, Lior Rotem. <br>
+    *In submission at EuroCrypt'23*
 
+- [Memory Tagging: A Memory Efficient Design](https://arxiv.org/abs/2209.00307) <br>
+    *Aditi Partap*, Dan Boneh. <br>
+    *In submission at EuroS&P'23*
 
-- Research Intern @ MSR Redmond, Summer 2020
-- Research Intern @ MIT, Summer 2017
-- Research Intern @ IST Austria, Summer 2016
+<!-- - []() <br>
+    .., *Aditi Partap*,. <br>
+    **
 
+- []() <br>
+    .., *Aditi Partap*,. <br>
+    **
+
+- []() <br>
+    .., *Aditi Partap*,. <br>
+    **
+
+- []() <br>
+    .., *Aditi Partap*,. <br>
+    ** -->
 
 ---
 
-## Service
+## <span style="font-family:'Candara Light';"> Research Experience</span>
 
 
-- TKDE External Reviewer 2021
-- IEEE Transactions on Pattern Analysis and Machine Intelligence External Reviewer 2020
+- Research Intern @ MSR Redmond, Summer 2021
+- Research Intern @ MIT, Summer 2018
 
 ---
 
-## Teaching Assistantship
+## <span style="font-family:'Candara Light';"> Industry Experience</span>
 
-- Database Systems, Spring 2020-21
-- Automata Theory, Spring 2017-18
-- Digital Logic Design, Spring 2016-17
-- CS101, Fall 2016-17
 
+- Software Engineer at PowerBI @Microsoft, December 2018 - August 2018
+- Software Engineering Intern @Microsoft, Summer 2017
+
+---
+
+## <span style="font-family:'Candara Light';"> Activities & Service </span>
+
+- Designed a puzzle for ZK-Hacks III, based on the Cheon attack, that can break the security of zk-SNARKs. Used arkworks to develop the [https://zkhack.dev/zkhackIII/puzzleT2.html](puzzle).
+- Among Top 100} students selected from universities across Europe, Asia & the Americas to attend the Cornell, Maryland, Max Planck Pre-doctoral Research School ({CMMRS}), 2018. 
+- Co-chaired the Programmable networks session at HotNets'20.
+- Undergraduate {Teaching Assistant} for Programming Languages course during Spring, 2018 and Data Structures & Algorithms course during Fall, 2017.
 
 ___
 
-## Contact
+## <span style="font-family:'Candara Light';">Contact</span>
 
-You can contact me by sending a mail to kapilv@mit.edu.
+You can contact me by sending an email to aditi712 at stanford.edu.
 
-\[[Github](https://github.com/kapilvaidya24)\] \[[FB](https://www.facebook.com/kapil.vaidya.39/)\]
+\[[Github](https://github.com/aditi741997)\] \[[LinkedIn](https://www.linkedin.com/in/aditi-partap-28611ab2/)\] \[[FB](https://www.facebook.com/aditi.partap/)\]
 
 
 
