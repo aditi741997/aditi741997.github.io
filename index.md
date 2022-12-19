@@ -4,15 +4,15 @@ title: Aditi Partap
 description: Aditi Partap's website
 ---
 
-# Kapil Vaidya
+# Aditi Partap
 <img src="/static/prof_pic.jpg" alt="Aditi" style="width: 220px; height: 210px; float: right; margin: 10px"/>
 <!-- ![Kapil](/static/PXL_20210829_150802540.PORTRAIT.jpg) -->
 <!-- Screen Shot 2021-10-10 at 11.17.23 PM.png -->
 ---
 
-<span style="font-family:'Candara Light';">
+<!-- <span style="font-family:'Candara Light';"> -->
 I am a second year CS Ph.D. student at Stanford University, where I work on security and cryptography research. I am advised by [Dan Boneh](https://crypto.stanford.edu/~dabo/).
-</span>
+<!-- </span> -->
 
 <span style="font-family:'Candara Light';">
 Prior to joining Stanford, I completed my Masters in May 2021 from University of Illinois at Urbana Champaign, where I built Catan, a CPU scheduling framework for Robotics & AR/VR. I was advised by [Radhika Mittal](http://radhikam.web.illinois.edu/) and [Brighten Godfrey](https://pbg.cs.illinois.edu/). In the summer of 2021, I interned at Microsoft Research with the [RFI](https://www.microsoft.com/en-us/research/group/research-for-industry/) group, where I worked with [Ranveer Chandra](https://www.microsoft.com/en-us/research/people/ranveer/) and [Anirudh Badam](https://www.microsoft.com/en-us/research/people/anbadam/) on leveraging AI to improve agricultural crop production. 
