@@ -32,7 +32,6 @@ Apart from work, I enjoy cooking, travelling and learning random things via Twit
 
 ## <span style="font-family:'Candara Light';">Publications</span>
 
-<p style="font-family:'Candara Light';">
 - [Accountable Threshold Signatures with Proactive Refresh](https://eprint.iacr.org/2022/1656) <br>
     Dan Boneh, *Aditi Partap*, Lior Rotem. <br>
     *In submission at EuroCrypt'23*
@@ -56,36 +55,35 @@ Apart from work, I enjoy cooking, travelling and learning random things via Twit
 - [Answering POI-recommendation Questions using Tourism Reviews](https://dl.acm.org/doi/10.1145/3459637.3482320) <br>
     Danish Contractor, Krunal Shah, *Aditi Partap*, Parag Singla, Mausam. <br>
     *In Proceedings of the 30th ACM International Conference on Information \& Knowledge Management (CIKM), 2021*
-</p>
 
 ---
 
 ## <span style="font-family:'Candara Light';"> Research Experience</span>
 
-<span style="font-family:'Candara Light';">
+<!-- <span style="font-family:'Candara Light';"> -->
 - Research Intern @ MSR Redmond, Summer 2021
 - Research Intern @ MIT, Summer 2018
-</span>
+<!-- </span> -->
 
 ---
 
 ## <span style="font-family:'Candara Light';"> Industry Experience</span>
 
-<span style="font-family:'Candara Light';">
+<!-- <span style="font-family:'Candara Light';"> -->
 - Software Engineer at PowerBI @Microsoft, December 2018 - August 2018
 - Software Engineering Intern @Microsoft, Summer 2017
-</span>
+<!-- </span> -->
 
 ---
 
 ## <span style="font-family:'Candara Light';"> Activities & Service </span>
 
-<span style="font-family:'Candara Light';">
+<!-- <span style="font-family:'Candara Light';"> -->
 - Designed a puzzle for ZK-Hacks III, based on the Cheon attack, that can break the security of zk-SNARKs. Used arkworks to develop the [puzzle](https://zkhack.dev/zkhackIII/puzzleT2.html).
 - Among Top 100 students selected from universities across Europe, Asia & the Americas to attend the Cornell, Maryland, Max Planck Pre-doctoral Research School (CMMRS), 2018. 
 - Co-chaired the Programmable networks session at HotNets'20.
 - Undergraduate Teaching Assistant for Programming Languages course during Spring, 2018 and Data Structures & Algorithms course during Fall, 2017.
-</span>
+<!-- </span> -->
 
 ___
 
