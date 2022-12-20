@@ -19,12 +19,16 @@ Prior to joining Stanford, I completed my Masters in May 2021 from University of
 </span>
 
 <span style="font-family:'Candara Light';">
-A little more history - I received my bachelors degree in Computer Science from IIT Delhi in 2018 where I worked with [Parag Singla](https://www.cse.iitd.ac.in/~parags/) and [Mausam](https://www.cse.iitd.ac.in/~mausam/) on large scale question answering using tourism data. I pursued an internship with [Dina Katabi](https://www.csail.mit.edu/person/dina-katabi) in the summer of 2018, during which I worked on enhancing reliability of [Emerald](https://www.emeraldinno.com/), a globally distributed IoT system. I also worked as a software engineer in the [PowerBI](https://powerbi.microsoft.com/en-us/) team at Microsoft Vancouver for a year before joining UIUC.
+A little more history - I received my bachelors degree in Computer Science from IIT Delhi in 2018 where I worked with [Parag Singla](https://www.cse.iitd.ac.in/~parags/) and [Mausam](https://www.cse.iitd.ac.in/~mausam/) on large scale question answering using tourism data. I pursued an internship with [Dina Katabi](https://www.csail.mit.edu/person/dina-katabi) in the summer of 2018, during which I worked on 
+<!-- enhancing reliability of  -->
+[Emerald](https://www.emeraldinno.com/)
+<!-- , a globally distributed IoT system -->
+. I also worked as a software engineer in the [PowerBI](https://powerbi.microsoft.com/en-us/) team at Microsoft Vancouver in 2019.
 </span>
 
-<span style="font-family:'Candara Light';">
+<!-- <span style="font-family:'Candara Light';">
 Apart from work, I enjoy cooking, travelling and learning random things via Twitter :)
-</span>
+</span> -->
 
 \[[CV](https://aditi741997.github.io/Aditi_CV_Updated.pdf)\]  \[[Google Scholar](https://scholar.google.com/citations?user=XYNtWYwAAAAJ&hl=en)\]
 
