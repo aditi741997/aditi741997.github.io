@@ -21,9 +21,7 @@ Prior to joining Stanford, I completed my Masters in May 2021 from University of
 <span style="font-family:'Candara Light';">
 A little more history - I received my bachelors degree in Computer Science from IIT Delhi in 2018 where I worked with [Parag Singla](https://www.cse.iitd.ac.in/~parags/) and [Mausam](https://www.cse.iitd.ac.in/~mausam/) on large scale question answering using tourism data. I pursued an internship with [Dina Katabi](https://www.csail.mit.edu/person/dina-katabi) in the summer of 2018, during which I worked on 
 <!-- enhancing reliability of  -->
-[Emerald](https://www.emeraldinno.com/)
-<!-- , a globally distributed IoT system -->
-. I also worked as a software engineer in the [PowerBI](https://powerbi.microsoft.com/en-us/) team at Microsoft Vancouver in 2019.
+[Emerald](https://www.emeraldinno.com/). I also worked as a software engineer in the [PowerBI](https://powerbi.microsoft.com/en-us/) team at Microsoft Vancouver in 2019.
 </span>
 
 <!-- <span style="font-family:'Candara Light';">
@@ -84,7 +82,7 @@ Apart from work, I enjoy cooking, travelling and learning random things via Twit
 
 <!-- <span style="font-family:'Candara Light';"> -->
 - Designed a puzzle for ZK-Hacks III, based on the Cheon attack, that can break the security of zk-SNARKs. Used arkworks to develop the [puzzle](https://zkhack.dev/zkhackIII/puzzleT2.html).
-- Among Top 100 students selected from universities across Europe, Asia & the Americas to attend the Cornell, Maryland, Max Planck Pre-doctoral Research School (CMMRS), 2018. 
+<!-- - Among Top 100 students selected from universities across Europe, Asia & the Americas to attend the Cornell, Maryland, Max Planck Pre-doctoral Research School (CMMRS), 2018.  -->
 - Co-chaired the Programmable networks session at HotNets'20.
 - Undergraduate Teaching Assistant for Programming Languages course during Spring, 2018 and Data Structures & Algorithms course during Fall, 2017.
 <!-- </span> -->
