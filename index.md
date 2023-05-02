@@ -5,7 +5,7 @@ description: Aditi Partap's website
 ---
 
 # <span style="font-family:'Candara Light';"> Aditi Partap </span>
-<img src="/static/prof_pic.jpg" alt="Aditi" style="width: 220px; height: 210px; float: right; margin: 10px"/>
+<img src="/static/japan_pic.jpg" alt="Aditi" style="width: 220px; height: 210px; float: right; margin: 10px"/>
 <!-- ![Kapil](/static/PXL_20210829_150802540.PORTRAIT.jpg) -->
 <!-- Screen Shot 2021-10-10 at 11.17.23 PM.png -->
 ---
@@ -34,7 +34,7 @@ Apart from work, I enjoy cooking, travelling and learning random things via Twit
 
 ## <span style="font-family:'Candara Light';">Publications</span>
 
-- [Accountable Threshold Signatures with Proactive Refresh](https://eprint.iacr.org/2022/1656) <br>
+- [Proactive Refresh for Accountable Threshold Signatures](https://eprint.iacr.org/2022/1656) <br>
     Dan Boneh, *Aditi Partap*, Lior Rotem. <br>
     *In submission at EuroCrypt'23*
 
@@ -57,6 +57,17 @@ Apart from work, I enjoy cooking, travelling and learning random things via Twit
 - [Answering POI-recommendation Questions using Tourism Reviews](https://dl.acm.org/doi/10.1145/3459637.3482320) <br>
     Danish Contractor, Krunal Shah, *Aditi Partap*, Parag Singla, Mausam. <br>
     *In Proceedings of the 30th ACM International Conference on Information \& Knowledge Management (CIKM), 2021*
+
+---
+
+## <span style="font-family: 'PT Serif';"> Talks</span>
+
+- [Proactive Refresh for Accountable Threshold Signatures]
+  * at Bay Area Crypto Day 2023 \[[Slides](https://aditi741997.github.io/Crypto_Day_Proactive_Refresh_for_Accountable_Threshold_Signatures.pptx)\]
+  * at Stanford Security Workshop 2023 \[[Slides](https://aditi741997.github.io/Security_Forum_Proactive_Refresh_for_ATS.pptx.pptx)\]
+
+- [On-Device CPU Scheduling for Sense-React Systems]
+  * at IROS 2022 \[[Slides](https://aditi741997.github.io/Catan_IROS22.pptx)\]
 
 ---
 
