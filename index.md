@@ -64,7 +64,7 @@ Apart from work, I enjoy cooking, travelling and learning random things via Twit
 
 - [Proactive Refresh for Accountable Threshold Signatures]
   * at Bay Area Crypto Day 2023 \[[Slides](https://aditi741997.github.io/Crypto_Day_Proactive_Refresh_for_Accountable_Threshold_Signatures.pptx)\]
-  * at Stanford Security Workshop 2023 \[[Slides](https://aditi741997.github.io/Security_Forum_Proactive_Refresh_for_ATS.pptx.pptx)\]
+  * at Stanford Security Workshop 2023 \[[Slides](https://aditi741997.github.io/Security_Forum_Proactive_Refresh_for_ATS.pptx)\]
 
 - [On-Device CPU Scheduling for Sense-React Systems]
   * at IROS 2022 \[[Slides](https://aditi741997.github.io/Catan_IROS22.pptx)\]
