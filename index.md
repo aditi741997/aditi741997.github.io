@@ -65,6 +65,8 @@ Apart from work, I enjoy cooking, travelling and learning random things via Twit
 - Proactive Refresh for Accountable Threshold Signatures
   * at Bay Area Crypto Day 2023 \[[Slides](https://aditi741997.github.io/Crypto_Day_Proactive_Refresh_for_Accountable_Threshold_Signatures.pptx)\]
   * at Stanford Security Workshop 2023 \[[Slides](https://aditi741997.github.io/Security_Forum_Proactive_Refresh_for_ATS.pptx)\] \[[Video](https://www.youtube.com/watch?v=tE0wMcEnZAI)\]
+  * at Brown University Crypto Reading Group \[[Slides](https://aditi741997.github.io/Brown_PRATS_Finalv3.pptx)\]
+  * at Microsoft Research Redmond Cryptography and Privacy Colloquium \[[Slides](https://aditi741997.github.io/MSR_PRATS_Final.pptx)\]
 
 - On-Device CPU Scheduling for Sense-React Systems
   * at IROS 2022 \[[Slides](https://aditi741997.github.io/Catan_IROS22.pptx)\]
@@ -92,6 +94,7 @@ Apart from work, I enjoy cooking, travelling and learning random things via Twit
 ## <span style="font-family:'Candara Light';"> Activities & Service </span>
 
 <!-- <span style="font-family:'Candara Light';"> -->
+- External Reviewer for Crypto 2023.
 - Designed a puzzle for ZK-Hacks III, based on the Cheon attack, that can break the security of zk-SNARKs. Used arkworks to develop the [puzzle](https://zkhack.dev/zkhackIII/puzzleT2.html).
 <!-- - Among Top 100 students selected from universities across Europe, Asia & the Americas to attend the Cornell, Maryland, Max Planck Pre-doctoral Research School (CMMRS), 2018.  -->
 - Co-chaired the Programmable networks session at HotNets'20.
