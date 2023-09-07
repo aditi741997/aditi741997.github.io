@@ -33,10 +33,13 @@ Apart from work, I enjoy cooking, travelling and learning random things via Twit
 ---
 
 ## <span style="font-family:'Candara Light';">Publications</span>
+- [Post-Quantum Single Secret Leader Election (SSLE) From Publicly Re-randomizable Commitments](https://eprint.iacr.org/2023/1241) <br>
+    Dan Boneh, *Aditi Partap*, Lior Rotem. <br>
+    * Accepted at AFT'23*
 
 - [Proactive Refresh for Accountable Threshold Signatures](https://eprint.iacr.org/2022/1656) <br>
     Dan Boneh, *Aditi Partap*, Lior Rotem. <br>
-    *In submission at EuroCrypt'23*
+    *In submission at FC'24*
 
 - [Memory Tagging: A Memory Efficient Design](https://arxiv.org/abs/2209.00307) <br>
     *Aditi Partap*, Dan Boneh. <br>
