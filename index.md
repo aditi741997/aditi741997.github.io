@@ -35,7 +35,7 @@ Apart from work, I enjoy cooking, travelling and learning random things via Twit
 ## <span style="font-family:'Candara Light';">Publications</span>
 - [Post-Quantum Single Secret Leader Election (SSLE) From Publicly Re-randomizable Commitments](https://eprint.iacr.org/2023/1241) <br>
     Dan Boneh, *Aditi Partap*, Lior Rotem. <br>
-    * Accepted at AFT'23*
+    *Accepted at AFT'23*
 
 - [Proactive Refresh for Accountable Threshold Signatures](https://eprint.iacr.org/2022/1656) <br>
     Dan Boneh, *Aditi Partap*, Lior Rotem. <br>
