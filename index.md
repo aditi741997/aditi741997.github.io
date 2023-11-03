@@ -11,7 +11,7 @@ description: Aditi Partap's website
 ---
 
 <span style="font-family:'Candara Light';">
-I am a second year CS Ph.D. student at Stanford University, where I work on security and cryptography research. I am advised by [Dan Boneh](https://crypto.stanford.edu/~dabo/).
+I am a second year CS Ph.D. student at Stanford University, where I work on cryptography research. I am advised by [Dan Boneh](https://crypto.stanford.edu/~dabo/).
 </span>
 
 <span style="font-family:'Candara Light';">
@@ -33,6 +33,14 @@ Apart from work, I enjoy cooking, travelling and learning random things via Twit
 ---
 
 ## <span style="font-family:'Candara Light';">Publications</span>
+- [Traitor tracing for Threshold Decryption] <br>
+    Dan Boneh, *Aditi Partap*, Lior Rotem. <br>
+    *In submission at EuroCrypt'24*
+
+- [Accountable Multi-Signatures with Constant Size Public Keys] <br>
+    Dan Boneh, *Aditi Partap*, Brent Waters. <br>
+    *In submission at EuroCrypt'24*
+
 - [Post-Quantum Single Secret Leader Election (SSLE) From Publicly Re-randomizable Commitments](https://eprint.iacr.org/2023/1241) <br>
     Dan Boneh, *Aditi Partap*, Lior Rotem. <br>
     *Accepted at AFT'23*
@@ -43,7 +51,7 @@ Apart from work, I enjoy cooking, travelling and learning random things via Twit
 
 - [Memory Tagging: A Memory Efficient Design](https://arxiv.org/abs/2209.00307) <br>
     *Aditi Partap*, Dan Boneh. <br>
-    *In submission at EuroS&P'23*
+    *In submission at AsiaCCS'23*
 
 - [DeepG2P: Fusing Multi-Modal Data to Improve Crop Production](https://arxiv.org/abs/2211.05986) <br>
     Swati Sharma, *Aditi Partap*, Maria Angels de Luis Balaguer, Sara Malvar, Ranveer Chandra. <br>
@@ -64,6 +72,12 @@ Apart from work, I enjoy cooking, travelling and learning random things via Twit
 ---
 
 ## <span style="font-family: 'PT Serif';"> Talks</span>
+
+- Traitor tracing for Threshold Decryption
+ * at University of Maryland Crypto Reading Group \[[Slides](/static/Seminar_Threshold_Decryption.pptx)\]
+
+- Post-Quantum Single Secret Leader Election (SSLE) From Publicly Re-randomizable Commitments
+ * at AFT 2023 \[[Slides](https://aditi741997.github.io/SSLE_AFT2023_Talk.pptx)\]
 
 - Proactive Refresh for Accountable Threshold Signatures
   * at Bay Area Crypto Day 2023 \[[Slides](https://aditi741997.github.io/Crypto_Day_Proactive_Refresh_for_Accountable_Threshold_Signatures.pptx)\]
