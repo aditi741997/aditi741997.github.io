@@ -33,11 +33,11 @@ Apart from work, I enjoy cooking, travelling and learning random things via Twit
 ---
 
 ## <span style="font-family:'Candara Light';">Publications</span>
-- [Traitor tracing for Threshold Decryption] <br>
+- Traitor tracing for Threshold Decryption <br>
     Dan Boneh, *Aditi Partap*, Lior Rotem. <br>
     *In submission at EuroCrypt'24*
 
-- [Accountable Multi-Signatures with Constant Size Public Keys] <br>
+- Accountable Multi-Signatures with Constant Size Public Keys <br>
     Dan Boneh, *Aditi Partap*, Brent Waters. <br>
     *In submission at EuroCrypt'24*
 
@@ -74,10 +74,10 @@ Apart from work, I enjoy cooking, travelling and learning random things via Twit
 ## <span style="font-family: 'PT Serif';"> Talks</span>
 
 - Traitor tracing for Threshold Decryption
- * at University of Maryland Crypto Reading Group \[[Slides](/static/Seminar_Threshold_Decryption.pptx)\]
+  * at University of Maryland Crypto Reading Group \[[Slides](/static/Seminar_Threshold_Decryption.pptx)\]
 
 - Post-Quantum Single Secret Leader Election (SSLE) From Publicly Re-randomizable Commitments
- * at AFT 2023 \[[Slides](https://aditi741997.github.io/SSLE_AFT2023_Talk.pptx)\]
+  * at AFT 2023 \[[Slides](https://aditi741997.github.io/SSLE_AFT2023_Talk.pptx)\]
 
 - Proactive Refresh for Accountable Threshold Signatures
   * at Bay Area Crypto Day 2023 \[[Slides](https://aditi741997.github.io/Crypto_Day_Proactive_Refresh_for_Accountable_Threshold_Signatures.pptx)\]
