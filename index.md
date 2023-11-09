@@ -32,6 +32,16 @@ Apart from work, I enjoy cooking, travelling and learning random things via Twit
 
 ---
 
+## <span style="font-family:'Candara Light';">Contact</span>
+
+<span style="font-family:'Candara Light';">
+**Email:** aditi712 at stanford.edu
+</span>
+
+\[[Twitter](https://twitter.com/AditiPartap97)\] \[[LinkedIn](https://www.linkedin.com/in/aditi-partap-28611ab2/)\] \[[Github](https://github.com/aditi741997)\]  
+
+---
+
 ## <span style="font-family:'Candara Light';">Publications</span>
 - Traitor tracing for Threshold Decryption <br>
     Dan Boneh, *Aditi Partap*, Lior Rotem. <br>
@@ -53,6 +63,42 @@ Apart from work, I enjoy cooking, travelling and learning random things via Twit
     *Aditi Partap*, Dan Boneh. <br>
     *In submission at AsiaCCS'23*
 
+---
+
+## <span style="font-family: 'PT Serif';"> Talks</span>
+
+- Traitor tracing for Threshold Decryption \[[Slides](/static/Seminar_Threshold_Decryption_v2.pptx)\]
+  * at University of California, Berkeley Security Seminar 
+  * at University of Maryland Crypto Reading Group 
+
+- Post-Quantum Single Secret Leader Election (SSLE) From Publicly Re-randomizable Commitments \[[Slides](/static/SSLE_AFT2023_Talk.pptx)\]
+  * at AFT 2023
+
+- Proactive Refresh for Accountable Threshold Signatures \[[Slides](/static/MSR_PRATS_Final.pptx)\]
+  * at Bay Area Crypto Day 2023 
+  * at Stanford Security Workshop 2023
+  * at Brown University Crypto Reading Group
+  * at Microsoft Research Redmond Cryptography and Privacy Colloquium
+
+- On-Device CPU Scheduling for Sense-React Systems  \[[Slides](/static/Catan_IROS22.pptx)\]
+  * at IROS 2022
+
+---
+
+## <span style="font-family:'Candara Light';"> Activities & Service </span>
+
+<!-- <span style="font-family:'Candara Light';"> -->
+- External Reviewer for Crypto 2023.
+- Designed a puzzle for ZK-Hacks III, based on the Cheon attack, that can break the security of zk-SNARKs. Used arkworks to develop the [puzzle](https://zkhack.dev/zkhackIII/puzzleT2.html).
+<!-- - Among Top 100 students selected from universities across Europe, Asia & the Americas to attend the Cornell, Maryland, Max Planck Pre-doctoral Research School (CMMRS), 2018.  -->
+- Co-chaired the Programmable networks session at HotNets'20.
+- Undergraduate Teaching Assistant for Programming Languages course during Spring, 2018 and Data Structures & Algorithms course during Fall, 2017.
+<!-- </span> -->
+
+---
+
+## <span style="font-family:'Candara Light';">Past Research Experience</span>
+
 - [DeepG2P: Fusing Multi-Modal Data to Improve Crop Production](https://arxiv.org/abs/2211.05986) <br>
     Swati Sharma, *Aditi Partap*, Maria Angels de Luis Balaguer, Sara Malvar, Ranveer Chandra. <br>
     *In submission at AISTATS'23*
@@ -71,65 +117,9 @@ Apart from work, I enjoy cooking, travelling and learning random things via Twit
 
 ---
 
-## <span style="font-family: 'PT Serif';"> Talks</span>
-
-- Traitor tracing for Threshold Decryption
-  * at University of Maryland Crypto Reading Group \[[Slides](/static/Seminar_Threshold_Decryption.pptx)\]
-
-- Post-Quantum Single Secret Leader Election (SSLE) From Publicly Re-randomizable Commitments
-  * at AFT 2023 \[[Slides](https://aditi741997.github.io/SSLE_AFT2023_Talk.pptx)\]
-
-- Proactive Refresh for Accountable Threshold Signatures
-  * at Bay Area Crypto Day 2023 \[[Slides](https://aditi741997.github.io/Crypto_Day_Proactive_Refresh_for_Accountable_Threshold_Signatures.pptx)\]
-  * at Stanford Security Workshop 2023 \[[Slides](https://aditi741997.github.io/Security_Forum_Proactive_Refresh_for_ATS.pptx)\] \[[Video](https://www.youtube.com/watch?v=tE0wMcEnZAI)\]
-  * at Brown University Crypto Reading Group \[[Slides](https://aditi741997.github.io/Brown_PRATS_Finalv3.pptx)\]
-  * at Microsoft Research Redmond Cryptography and Privacy Colloquium \[[Slides](https://aditi741997.github.io/MSR_PRATS_Final.pptx)\]
-
-- On-Device CPU Scheduling for Sense-React Systems
-  * at IROS 2022 \[[Slides](https://aditi741997.github.io/Catan_IROS22.pptx)\]
-
----
-
-## <span style="font-family:'Candara Light';"> Research Experience</span>
-
-<!-- <span style="font-family:'Candara Light';"> -->
-- Research Intern @ MSR Redmond, Summer 2021
-- Research Intern @ MIT, Summer 2018
-<!-- </span> -->
-
----
-
 ## <span style="font-family:'Candara Light';"> Industry Experience</span>
 
 <!-- <span style="font-family:'Candara Light';"> -->
 - Software Engineer at PowerBI @Microsoft, December 2018 - August 2018
 - Software Engineering Intern @Microsoft, Summer 2017
 <!-- </span> -->
-
----
-
-## <span style="font-family:'Candara Light';"> Activities & Service </span>
-
-<!-- <span style="font-family:'Candara Light';"> -->
-- External Reviewer for Crypto 2023.
-- Designed a puzzle for ZK-Hacks III, based on the Cheon attack, that can break the security of zk-SNARKs. Used arkworks to develop the [puzzle](https://zkhack.dev/zkhackIII/puzzleT2.html).
-<!-- - Among Top 100 students selected from universities across Europe, Asia & the Americas to attend the Cornell, Maryland, Max Planck Pre-doctoral Research School (CMMRS), 2018.  -->
-- Co-chaired the Programmable networks session at HotNets'20.
-- Undergraduate Teaching Assistant for Programming Languages course during Spring, 2018 and Data Structures & Algorithms course during Fall, 2017.
-<!-- </span> -->
-
-___
-
-## <span style="font-family:'Candara Light';">Contact</span>
-
-<span style="font-family:'Candara Light';">
-You can contact me by sending an email to aditi712 at stanford.edu.
-</span>
-
-\[[Github](https://github.com/aditi741997)\] \[[LinkedIn](https://www.linkedin.com/in/aditi-partap-28611ab2/)\] \[[FB](https://www.facebook.com/aditi.partap/)\]
-
-
-
-
-
-
