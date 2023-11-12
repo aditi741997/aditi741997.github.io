@@ -28,7 +28,7 @@ A little more history - I received my bachelors degree in Computer Science from 
 Apart from work, I enjoy reading, travelling and social dancing.
 </span>
 
-\[[CV](https://aditi741997.github.io/Aditi_CV_Updated.pdf)\]  \[[Google Scholar](https://scholar.google.com/citations?user=XYNtWYwAAAAJ&hl=en)\]
+\[[CV](/static/Aditi_CV_Updated.pdf)\]  \[[Google Scholar](https://scholar.google.com/citations?user=XYNtWYwAAAAJ&hl=en)\]
 
 ---
 
@@ -98,6 +98,9 @@ Apart from work, I enjoy reading, travelling and social dancing.
 ---
 
 ## <span style="font-family:'Candara Light';">Past Research Experience</span>
+- [Optimizing video analytics with declarative model relationships](https://dl.acm.org/doi/abs/10.14778/3570690.3570695) <br>
+    Francisco Romero, Johann Hauswald, *Aditi Partap*, Daniel Kang, Matei Zaharia, Christos Kozyrakis
+    *In Proceedings of the VLDB Endowment, 2022*
 
 - [DeepG2P: Fusing Multi-Modal Data to Improve Crop Production](https://arxiv.org/abs/2211.05986) <br>
     Swati Sharma, *Aditi Partap*, Maria Angels de Luis Balaguer, Sara Malvar, Ranveer Chandra. <br>
