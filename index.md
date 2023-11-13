@@ -43,7 +43,7 @@ Apart from work, I enjoy reading, travelling and social dancing.
 ---
 
 ## <span style="font-family:'Candara Light';">Publications</span>
-- Traitor tracing for Threshold Decryption <br>
+- [Traitor tracing for Threshold Decryption](https://eprint.iacr.org/2023/1724) <br>
     Dan Boneh, *Aditi Partap*, Lior Rotem. <br>
     *In submission at EuroCrypt'24*
 
