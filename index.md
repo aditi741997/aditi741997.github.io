@@ -47,7 +47,7 @@ Apart from work, I enjoy reading, travelling and social dancing.
     Dan Boneh, *Aditi Partap*, Lior Rotem. <br>
     *In submission at EuroCrypt'24*
 
-- Accountable Multi-Signatures with Constant Size Public Keys <br>
+- [Accountable Multi-Signatures with Constant Size Public Keys](/static/Multi-Signatures.pdf) <br>
     Dan Boneh, *Aditi Partap*, Brent Waters. <br>
     *In submission at EuroCrypt'24*
 
