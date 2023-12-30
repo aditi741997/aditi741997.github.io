@@ -57,7 +57,7 @@ Apart from work, I enjoy reading, travelling and social dancing.
 
 - [Proactive Refresh for Accountable Threshold Signatures](https://eprint.iacr.org/2022/1656) <br>
     Dan Boneh, *Aditi Partap*, Lior Rotem. <br>
-    *In submission at FC'24*
+    *Accepted at FC'24*
 
 - [Memory Tagging: A Memory Efficient Design](https://arxiv.org/abs/2209.00307) <br>
     *Aditi Partap*, Dan Boneh. <br>
