@@ -43,7 +43,7 @@ Apart from work, I enjoy reading, travelling and social dancing.
 ---
 
 ## <span style="font-family:'Candara Light';">Publications</span>
-- [Traitor tracing for Threshold Decryption](https://eprint.iacr.org/2023/1724) <br>
+- [Accountability for Misbehavior in Threshold Decryption via Threshold Traitor Tracing](https://eprint.iacr.org/2023/1724) <br>
     Dan Boneh, *Aditi Partap*, Lior Rotem. <br>
     *In submission at EuroCrypt'24*
 
@@ -67,7 +67,7 @@ Apart from work, I enjoy reading, travelling and social dancing.
 
 ## <span style="font-family: 'PT Serif';"> Talks</span>
 
-- Traitor tracing for Threshold Decryption \[[Slides](/static/Seminar_Threshold_Decryption_v2.pptx)\]
+- Accountability for Misbehavior in Threshold Decryption via Threshold Traitor Tracing \[[Slides](/static/Seminar_Threshold_Decryption_v2.pptx)\]
   * at University of California, Berkeley Security Seminar 
   * at University of Maryland Crypto Reading Group 
 
