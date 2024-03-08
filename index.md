@@ -43,6 +43,10 @@ Apart from work, I enjoy reading, travelling and social dancing.
 ---
 
 ## <span style="font-family:'Candara Light';">Publications</span>
+- [Traceable Secret Sharing: Strong Security and Efficient Constructions](https://eprint.iacr.org/2024/405) <br>
+    Dan Boneh, *Aditi Partap*, Lior Rotem. <br>
+    *In submission at Crypto'24*
+
 - [Accountability for Misbehavior in Threshold Decryption via Threshold Traitor Tracing](https://eprint.iacr.org/2023/1724) <br>
     Dan Boneh, *Aditi Partap*, Lior Rotem. <br>
     *In submission at Crypto'24*
