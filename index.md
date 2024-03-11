@@ -78,7 +78,7 @@ Apart from work, I enjoy reading, travelling and social dancing.
   * at Advances in Financial Technologies (AFT) 2023 \[[Video](https://youtu.be/wNflhsGgPGs?si=Ai12rkAsp9TkLQ_r)\]
 
 - Proactive Refresh for Accountable Threshold Signatures \[[Slides](/static/MSR_PRATS_Final.pptx)\]
-  * at Financial Cryptography (FC) 2024
+  * at Financial Cryptography (FC) 2024 \[[Video](https://youtu.be/N75I0Cc9Q_U?si=xS_dwzJ6qjaC6IQT)\]
   * at Bay Area Crypto Day 2023
   * at Stanford Security Workshop 2023 \[[Video](https://www.youtube.com/watch?v=tE0wMcEnZAI&ab_channel=StanfordCSAffiliates)\]
   * at Brown University Crypto Reading Group
