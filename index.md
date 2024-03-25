@@ -76,10 +76,10 @@ Apart from work, I enjoy reading, travelling and social dancing.
   * at University of Maryland Crypto Reading Group: October 2023
 
 - Post-Quantum Single Secret Leader Election (SSLE) From Publicly Re-randomizable Commitments \[[Slides](/static/SSLE_AFT2023_Talk.pptx)\]
-  * at Advances in Financial Technologies (AFT) 2023: October 2023 \[[Video](https://youtu.be/wNflhsGgPGs?si=Ai12rkAsp9TkLQ_r)\]
+  * at Advances in Financial Technologies (AFT): October 2023 \[[Video](https://youtu.be/wNflhsGgPGs?si=Ai12rkAsp9TkLQ_r)\]
 
 - Proactive Refresh for Accountable Threshold Signatures \[[Slides](/static/MSR_PRATS_Final.pptx)\]
-  * at Financial Cryptography (FC) 2024: March 2024 \[[Video](https://youtu.be/N75I0Cc9Q_U?si=xS_dwzJ6qjaC6IQT)\]
+  * at Financial Cryptography (FC): March 2024 \[[Video](https://youtu.be/N75I0Cc9Q_U?si=xS_dwzJ6qjaC6IQT)\]
   * at Microsoft Research Redmond Cryptography and Privacy Colloquium: June 2023
   * at Brown University Crypto Reading Group: May 2023
   * at Stanford Security Workshop: April 2023 \[[Video](https://www.youtube.com/watch?v=tE0wMcEnZAI&ab_channel=StanfordCSAffiliates)\]
