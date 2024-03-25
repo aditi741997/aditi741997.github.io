@@ -71,28 +71,26 @@ Apart from work, I enjoy reading, travelling and social dancing.
 ## <span style="font-family: 'PT Serif';"> Talks</span>
 
 - Accountability for Misbehavior in Threshold Decryption via Threshold Traitor Tracing \[[Slides](/static/Seminar_Threshold_Decryption_v2.pptx)\]
-  * at University of California, Berkeley Security Seminar 
-  * at University of Maryland Crypto Reading Group 
+  * at NTT CIS Seminar: March 2024
+  * at University of California, Berkeley Security Seminar: November 2023
+  * at University of Maryland Crypto Reading Group: October 2023
 
 - Post-Quantum Single Secret Leader Election (SSLE) From Publicly Re-randomizable Commitments \[[Slides](/static/SSLE_AFT2023_Talk.pptx)\]
-  * at Advances in Financial Technologies (AFT) 2023 \[[Video](https://youtu.be/wNflhsGgPGs?si=Ai12rkAsp9TkLQ_r)\]
+  * at Advances in Financial Technologies (AFT) 2023: October 2023 \[[Video](https://youtu.be/wNflhsGgPGs?si=Ai12rkAsp9TkLQ_r)\]
 
 - Proactive Refresh for Accountable Threshold Signatures \[[Slides](/static/MSR_PRATS_Final.pptx)\]
-  * at Financial Cryptography (FC) 2024 \[[Video](https://youtu.be/N75I0Cc9Q_U?si=xS_dwzJ6qjaC6IQT)\]
-  * at Bay Area Crypto Day 2023
-  * at Stanford Security Workshop 2023 \[[Video](https://www.youtube.com/watch?v=tE0wMcEnZAI&ab_channel=StanfordCSAffiliates)\]
-  * at Brown University Crypto Reading Group
-  * at Microsoft Research Redmond Cryptography and Privacy Colloquium
-
-- On-Device CPU Scheduling for Sense-React Systems  \[[Slides](/static/Catan_IROS22.pptx)\]
-  * at IROS 2022
+  * at Financial Cryptography (FC) 2024: March 2024 \[[Video](https://youtu.be/N75I0Cc9Q_U?si=xS_dwzJ6qjaC6IQT)\]
+  * at Microsoft Research Redmond Cryptography and Privacy Colloquium: June 2023
+  * at Brown University Crypto Reading Group: May 2023
+  * at Stanford Security Workshop: April 2023 \[[Video](https://www.youtube.com/watch?v=tE0wMcEnZAI&ab_channel=StanfordCSAffiliates)\]
+  * at Bay Area Crypto Day: April 2023
 
 ---
 
 ## <span style="font-family:'Candara Light';"> Activities & Service </span>
 
 <!-- <span style="font-family:'Candara Light';"> -->
-- External Reviewer for Crypto 2023.
+- External Reviewer for Crypto 2023 and Crypto 2024.
 - Designed a puzzle for ZK-Hacks III, based on the Cheon attack, that can break the security of zk-SNARKs. Used arkworks to develop the [puzzle](https://zkhack.dev/zkhackIII/puzzleT2.html).
 <!-- - Among Top 100 students selected from universities across Europe, Asia & the Americas to attend the Cornell, Maryland, Max Planck Pre-doctoral Research School (CMMRS), 2018.  -->
 - Co-chaired the Programmable networks session at HotNets'20.
