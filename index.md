@@ -28,7 +28,7 @@ A little more history - I received my bachelors degree in Computer Science from 
 Apart from work, I enjoy reading, travelling and social dancing.
 </span>
 
-\[[CV](/static/Aditi_CV_Updated.pdf)\]  \[[Google Scholar](https://scholar.google.com/citations?user=XYNtWYwAAAAJ&hl=en)\]
+\[[CV](/static/Aditi_CV_Updated_Mar2024.pdf)\]  \[[Google Scholar](https://scholar.google.com/citations?user=XYNtWYwAAAAJ&hl=en)\]
 
 ---
 
@@ -57,11 +57,11 @@ Apart from work, I enjoy reading, travelling and social dancing.
 
 - [Post-Quantum Single Secret Leader Election (SSLE) From Publicly Re-randomizable Commitments](https://eprint.iacr.org/2023/1241) <br>
     Dan Boneh, *Aditi Partap*, Lior Rotem. <br>
-    *Accepted at AFT'23*
+    *Accepted at Advances in Financial Technologies (AFT) 2023*
 
 - [Proactive Refresh for Accountable Threshold Signatures](https://eprint.iacr.org/2022/1656) <br>
     Dan Boneh, *Aditi Partap*, Lior Rotem. <br>
-    *Accepted at FC'24*
+    *Accepted at Financial Cryptography (FC) 2024*
 
 - [Memory Tagging: A Memory Efficient Design](https://arxiv.org/abs/2209.00307) <br>
     *Aditi Partap*, Dan Boneh. <br>
@@ -91,6 +91,7 @@ Apart from work, I enjoy reading, travelling and social dancing.
 
 <!-- <span style="font-family:'Candara Light';"> -->
 - External Reviewer for Crypto 2023 and Crypto 2024.
+- Co-organizer of Graduate CS Women's Lunch at Stanford University.
 - Designed a puzzle for ZK-Hacks III, based on the Cheon attack, that can break the security of zk-SNARKs. Used arkworks to develop the [puzzle](https://zkhack.dev/zkhackIII/puzzleT2.html).
 <!-- - Among Top 100 students selected from universities across Europe, Asia & the Americas to attend the Cornell, Maryland, Max Planck Pre-doctoral Research School (CMMRS), 2018.  -->
 - Co-chaired the Programmable networks session at HotNets'20.
