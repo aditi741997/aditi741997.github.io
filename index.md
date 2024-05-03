@@ -45,15 +45,11 @@ Apart from work, I enjoy reading, travelling and social dancing.
 ## <span style="font-family:'Candara Light';">Publications</span>
 - [Traceable Secret Sharing: Strong Security and Efficient Constructions](https://eprint.iacr.org/2024/405) <br>
     Dan Boneh, *Aditi Partap*, Lior Rotem. <br>
-    *In submission at Crypto'24*
+    *Accepted at Crypto'24*
 
 - [Accountability for Misbehavior in Threshold Decryption via Threshold Traitor Tracing](https://eprint.iacr.org/2023/1724) <br>
     Dan Boneh, *Aditi Partap*, Lior Rotem. <br>
-    *In submission at Crypto'24*
-
-- [Accountable Multi-Signatures with Constant Size Public Keys](/static/Multi-Signatures.pdf) <br>
-    Dan Boneh, *Aditi Partap*, Brent Waters. <br>
-    *In submission at Crypto'24*
+    *Accepted at Crypto'24*
 
 - [Post-Quantum Single Secret Leader Election (SSLE) From Publicly Re-randomizable Commitments](https://eprint.iacr.org/2023/1241) <br>
     Dan Boneh, *Aditi Partap*, Lior Rotem. <br>
@@ -62,6 +58,9 @@ Apart from work, I enjoy reading, travelling and social dancing.
 - [Proactive Refresh for Accountable Threshold Signatures](https://eprint.iacr.org/2022/1656) <br>
     Dan Boneh, *Aditi Partap*, Lior Rotem. <br>
     *Accepted at Financial Cryptography (FC) 2024*
+
+- [Accountable Multi-Signatures with Constant Size Public Keys](/static/Multi-Signatures.pdf) <br>
+    Dan Boneh, *Aditi Partap*, Brent Waters. <br>
 
 - [Memory Tagging: A Memory Efficient Design](https://arxiv.org/abs/2209.00307) <br>
     *Aditi Partap*, Dan Boneh. <br>
