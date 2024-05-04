@@ -59,7 +59,7 @@ Apart from work, I enjoy reading, travelling and social dancing.
     Dan Boneh, *Aditi Partap*, Lior Rotem. <br>
     *Accepted at Financial Cryptography (FC) 2024*
 
-- [Accountable Multi-Signatures with Constant Size Public Keys](/static/Multi-Signatures.pdf) <br>
+- [Accountable Multi-Signatures with Constant Size Public Keys](https://eprint.iacr.org/2023/1793) <br>
     Dan Boneh, *Aditi Partap*, Brent Waters. <br>
 
 - [Memory Tagging: A Memory Efficient Design](https://arxiv.org/abs/2209.00307) <br>
@@ -68,6 +68,9 @@ Apart from work, I enjoy reading, travelling and social dancing.
 ---
 
 ## <span style="font-family: 'PT Serif';"> Talks</span>
+
+- Traceable Secret Sharing: Strong Security and Efficient Constructions \[[Slides](/static/CryptoDay_TraceableSS.pptx)\]
+  * at Bay Area Crypto Day: April 2024
 
 - Accountability for Misbehavior in Threshold Decryption via Threshold Traitor Tracing \[[Slides](/static/Seminar_Threshold_Decryption_v2.pptx)\]
   * at Carnegie Mellon University CyLab Crypto Seminar: April 2024 \[[Video](https://www.youtube.com/watch?v=W_Dzk_zZb88)\]
