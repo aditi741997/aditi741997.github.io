@@ -90,9 +90,10 @@ Apart from work, I enjoy reading, travelling and social dancing.
 
 ---
 
-## <span style="font-family:'Candara Light';"> Activities & Service </span>
+## <span style="font-family:'Candara Light';"> Teaching & Service </span>
 
 <!-- <span style="font-family:'Candara Light';"> -->
+- Instructor for CS355: Advanced Cryptography, Spring 2024. Co-taught with Wilson Nguyen and Trisha Datta \[[site](https://crypto.stanford.edu/cs355/24sp/)\].
 - External Reviewer for Crypto 2023 and Crypto 2024.
 - Co-organizer of Graduate CS Women's Lunch at Stanford University.
 - Designed a puzzle for ZK-Hacks III, based on the Cheon attack, that can break the security of zk-SNARKs. Used arkworks to develop the [puzzle](https://zkhack.dev/zkhackIII/puzzleT2.html).
@@ -129,6 +130,6 @@ Apart from work, I enjoy reading, travelling and social dancing.
 ## <span style="font-family:'Candara Light';"> Industry Experience</span>
 
 <!-- <span style="font-family:'Candara Light';"> -->
-- Software Engineer at PowerBI @Microsoft, December 2018 - August 2018
+- Software Engineer at PowerBI @Microsoft, December 2018 - August 2019
 - Software Engineering Intern @Microsoft, Summer 2017
 <!-- </span> -->
