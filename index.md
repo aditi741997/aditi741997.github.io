@@ -73,6 +73,7 @@ Apart from work, I enjoy reading, travelling and social dancing.
   * at Bay Area Crypto Day: April 2024
 
 - Accountability for Misbehavior in Threshold Decryption via Threshold Traitor Tracing \[[Slides](/static/Seminar_Threshold_Decryption_v2.pptx)\]
+  * at New York University Crypto Reading Group: June 2024
   * at Carnegie Mellon University CyLab Crypto Seminar: April 2024 \[[Video](https://www.youtube.com/watch?v=W_Dzk_zZb88)\]
   * at NTT CIS Seminar: March 2024
   * at University of California, Berkeley Security Seminar: November 2023
