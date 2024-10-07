@@ -11,7 +11,7 @@ description: Aditi Partap's website
 ---
 
 <span style="font-family:'Candara Light';">
-I am a third year CS Ph.D. student at Stanford University, where I work on cryptography research. I am advised by [Dan Boneh](https://crypto.stanford.edu/~dabo/). My current focus is on accountability in threshold cryptography and leader election protocols.
+I am a fourth year CS Ph.D. student at Stanford University, where I work on cryptography research. I am advised by [Dan Boneh](https://crypto.stanford.edu/~dabo/). My current focus is on accountability in threshold cryptography and leader election protocols.
 </span>
 
 <span style="font-family:'Candara Light';">
@@ -73,6 +73,7 @@ Apart from work, I enjoy reading, travelling and social dancing.
   * at Bay Area Crypto Day: April 2024
 
 - Accountability for Misbehavior in Threshold Decryption via Threshold Traitor Tracing \[[Slides](/static/Seminar_Threshold_Decryption_v2.pptx)\]
+  * at International Cryptography Conference (Crypto): August 2024 \[[Video](https://youtu.be/yuXZXR8v_Po?list=PLeeS-3Ml-rprqjxP_UcoPRdnj1BmELWfp&t=1421)\]
   * at New York University Crypto Reading Group: June 2024
   * at Carnegie Mellon University CyLab Crypto Seminar: April 2024 \[[Video](https://www.youtube.com/watch?v=W_Dzk_zZb88)\]
   * at NTT CIS Seminar: March 2024
@@ -95,7 +96,8 @@ Apart from work, I enjoy reading, travelling and social dancing.
 
 <!-- <span style="font-family:'Candara Light';"> -->
 - Instructor for CS355: Advanced Cryptography, Spring 2024. Co-taught with Wilson Nguyen and Trisha Datta \[[site](https://crypto.stanford.edu/cs355/24sp/)\].
-- External Reviewer for Crypto 2023 and Crypto 2024.
+- External Reviewer for Crypto, AsiaCrypt and Theory of Cryptography (TCC) 2024 conferences.
+- External Reviewer for Crypto 2023.
 - Co-organizer of Graduate CS Women's Lunch at Stanford University.
 - Designed a puzzle for ZK-Hacks III, based on the Cheon attack, that can break the security of zk-SNARKs. Used arkworks to develop the [puzzle](https://zkhack.dev/zkhackIII/puzzleT2.html).
 <!-- - Among Top 100 students selected from universities across Europe, Asia & the Americas to attend the Cornell, Maryland, Max Planck Pre-doctoral Research School (CMMRS), 2018.  -->
