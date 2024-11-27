@@ -43,6 +43,10 @@ Apart from work, I enjoy reading, travelling and social dancing.
 ---
 
 ## <span style="font-family:'Candara Light';">Publications</span>
+- Traceable Verifiable Random Functions <br>
+    Dan Boneh, *Aditi Partap*, Lior Rotem. <br>
+    *Submitted to EuroCrypt'25*
+
 - [Traceable Secret Sharing: Strong Security and Efficient Constructions](https://eprint.iacr.org/2024/405) <br>
     Dan Boneh, *Aditi Partap*, Lior Rotem. <br>
     *Accepted at Crypto'24*
@@ -105,7 +109,7 @@ Apart from work, I enjoy reading, travelling and social dancing.
 
 <!-- <span style="font-family:'Candara Light';"> -->
 - Instructor for CS355: Advanced Cryptography, Spring 2024. Co-taught with Wilson Nguyen and Trisha Datta \[[site](https://crypto.stanford.edu/cs355/24sp/)\].
-- External Reviewer for Crypto, AsiaCrypt and Theory of Cryptography (TCC) 2024 conferences.
+- External Reviewer for EuroCrypt, Crypto, AsiaCrypt and Theory of Cryptography (TCC) 2024 conferences.
 - External Reviewer for Crypto 2023.
 - Co-organizer of Graduate CS Women's Lunch at Stanford University.
 - Designed a puzzle for ZK-Hacks III, based on the Cheon attack, that can break the security of zk-SNARKs. Used arkworks to develop the [puzzle](https://zkhack.dev/zkhackIII/puzzleT2.html).
