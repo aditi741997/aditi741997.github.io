@@ -97,8 +97,6 @@ Apart from work, I enjoy reading, travelling and social dancing.
 <!-- <span style="font-family:'Candara Light';"> -->
 - Research Intern at the Andreessen Horowitz Capital Management (a16z) Crypto Group, Summer 2024 
 - Research Intern at the RFI group @Microsoft Research, Summer 2021
-<!-- - Software Engineer at PowerBI @Microsoft, December 2018 - August 2019
-- Software Engineering Intern @Microsoft, Summer 2017 -->
 <!-- </span> -->
 
  ---
