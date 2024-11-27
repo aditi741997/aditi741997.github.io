@@ -92,6 +92,17 @@ Apart from work, I enjoy reading, travelling and social dancing.
 
 ---
 
+## <span style="font-family:'Candara Light';"> Work Experience</span>
+
+<!-- <span style="font-family:'Candara Light';"> -->
+- Research Intern at the Andreessen Horowitz Capital Management (a16z) Crypto Group, Summer 2024 
+- Research Intern at the RFI group @Microsoft Research, Summer 2021
+<!-- - Software Engineer at PowerBI @Microsoft, December 2018 - August 2019
+- Software Engineering Intern @Microsoft, Summer 2017 -->
+<!-- </span> -->
+
+ ---
+
 ## <span style="font-family:'Candara Light';"> Teaching & Service </span>
 
 <!-- <span style="font-family:'Candara Light';"> -->
@@ -128,11 +139,4 @@ Apart from work, I enjoy reading, travelling and social dancing.
     Danish Contractor, Krunal Shah, *Aditi Partap*, Parag Singla, Mausam. <br>
     *In Proceedings of the 30th ACM International Conference on Information \& Knowledge Management (CIKM), 2021*
 
----
 
-## <span style="font-family:'Candara Light';"> Industry Experience</span>
-
-<!-- <span style="font-family:'Candara Light';"> -->
-- Software Engineer at PowerBI @Microsoft, December 2018 - August 2019
-- Software Engineering Intern @Microsoft, Summer 2017
-<!-- </span> -->
