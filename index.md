@@ -45,7 +45,7 @@ Apart from work, I enjoy reading, travelling and social dancing.
 ## <span style="font-family:'Candara Light';">Publications</span>
 - Traceable Verifiable Random Functions <br>
     Dan Boneh, *Aditi Partap*, Lior Rotem. <br>
-    *Submitted to EuroCrypt'25*
+    <!-- *Submitted to EuroCrypt'25* -->
 
 - [Traceable Secret Sharing: Strong Security and Efficient Constructions](https://eprint.iacr.org/2024/405) <br>
     Dan Boneh, *Aditi Partap*, Lior Rotem. <br>
@@ -65,6 +65,7 @@ Apart from work, I enjoy reading, travelling and social dancing.
 
 - [Accountable Multi-Signatures with Constant Size Public Keys](https://eprint.iacr.org/2023/1793) <br>
     Dan Boneh, *Aditi Partap*, Brent Waters. <br>
+    *Accepted at Public Key Cryptography (PKC) 2025*
 
 - [Memory Tagging: A Memory Efficient Design](https://arxiv.org/abs/2209.00307) <br>
     *Aditi Partap*, Dan Boneh. <br>
