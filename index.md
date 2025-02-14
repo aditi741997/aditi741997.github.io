@@ -45,7 +45,7 @@ Apart from work, I enjoy reading, travelling and social dancing.
 ## <span style="font-family:'Candara Light';">Publications</span>
 - Traceable Verifiable Random Functions <br>
     Dan Boneh, *Aditi Partap*, Lior Rotem. <br>
-    <!-- *Submitted to EuroCrypt'25* -->
+    *Submitted to Crypto'25*
 
 - [Traceable Secret Sharing: Strong Security and Efficient Constructions](https://eprint.iacr.org/2024/405) <br>
     Dan Boneh, *Aditi Partap*, Lior Rotem. <br>
