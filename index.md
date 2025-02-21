@@ -43,7 +43,7 @@ Apart from work, I enjoy reading, travelling and social dancing.
 ---
 
 ## <span style="font-family:'Candara Light';">Publications</span>
-- Traceable Verifiable Random Functions <br>
+- [Traceable Verifiable Random Functions](https://eprint.iacr.org/2025/312) <br>
     Dan Boneh, *Aditi Partap*, Lior Rotem. <br>
     *Submitted to Crypto'25*
 
