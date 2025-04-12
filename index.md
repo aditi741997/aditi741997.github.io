@@ -74,6 +74,9 @@ Apart from work, I enjoy reading, travelling and social dancing.
 
 ## <span style="font-family: 'PT Serif';"> Talks</span>
 
+- Traceable Verifiable Random Functions
+  * at Bay Area Crypto Day: April 2025
+
 - Traceable Secret Sharing: Strong Security and Efficient Constructions \[[Slides](/static/CryptoDay_TraceableSS.pptx)\]
   * at Bay Area Crypto Day: April 2024
 
@@ -110,8 +113,7 @@ Apart from work, I enjoy reading, travelling and social dancing.
 
 <!-- <span style="font-family:'Candara Light';"> -->
 - Instructor for CS355: Advanced Cryptography, Spring 2024. Co-taught with Wilson Nguyen and Trisha Datta \[[site](https://crypto.stanford.edu/cs355/24sp/)\].
-- External Reviewer for EuroCrypt, Crypto, AsiaCrypt and Theory of Cryptography (TCC) 2024 conferences.
-- External Reviewer for Crypto 2023.
+- External reviewer for EuroCrypt 2025 and Crypto 2023-25, AsiaCrypt and Theory of Cryptography (TCC) 2024 conferences.
 - Co-organizer of Graduate CS Women's Lunch at Stanford University.
 - Designed a puzzle for ZK-Hacks III, based on the Cheon attack, that can break the security of zk-SNARKs. Used arkworks to develop the [puzzle](https://zkhack.dev/zkhackIII/puzzleT2.html).
 <!-- - Among Top 100 students selected from universities across Europe, Asia & the Americas to attend the Cornell, Maryland, Max Planck Pre-doctoral Research School (CMMRS), 2018.  -->
