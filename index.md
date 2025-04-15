@@ -74,8 +74,9 @@ Apart from work, I enjoy reading, travelling and social dancing.
 
 ## <span style="font-family: 'PT Serif';"> Talks</span>
 
-- Traceable Verifiable Random Functions
+- Traceable Verifiable Random Functions \[[Slides](/static/Traceable_VRF_SeminarV2.pptx)\]
   * at Bay Area Crypto Day: April 2025
+  * at University of California, San Diego Theory Seminar: April 2025
 
 - Traceable Secret Sharing: Strong Security and Efficient Constructions \[[Slides](/static/CryptoDay_TraceableSS.pptx)\]
   * at Bay Area Crypto Day: April 2024
