@@ -77,10 +77,10 @@ Apart from work, I enjoy reading, travelling and social dancing.
 - Traceable Verifiable Random Functions \[[Slides](/static/Traceable_VRF_SeminarV2.pptx)\]
   * at Bay Area Crypto Day: April 2025
   * at University of California, San Diego Theory Seminar: April 2025
-  * at University of California, Los Angeles Crypto Reading group: April 2025
   * at University of Washington, Seattle Crypto Reading group: April 2025
 
 - Traceable Secret Sharing: Strong Security and Efficient Constructions \[[Slides](/static/CryptoDay_TraceableSS.pptx)\]
+  * at University of California, Los Angeles Crypto Reading group: April 2025
   * at Bay Area Crypto Day: April 2024
 
 - Accountability for Misbehavior in Threshold Decryption via Threshold Traitor Tracing \[[Slides](/static/Seminar_Threshold_Decryption_v2.pptx)\]
