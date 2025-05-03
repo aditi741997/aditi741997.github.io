@@ -47,6 +47,10 @@ Apart from work, I enjoy reading, travelling and social dancing.
     Dan Boneh, *Aditi Partap*, Lior Rotem. <br>
     *Accepted at Crypto'25*
 
+- [Accountable Multi-Signatures with Constant Size Public Keys](https://eprint.iacr.org/2023/1793) <br>
+    Dan Boneh, *Aditi Partap*, Brent Waters. <br>
+    *Accepted at Public Key Cryptography (PKC) 2025*
+
 - [Traceable Secret Sharing: Strong Security and Efficient Constructions](https://eprint.iacr.org/2024/405) <br>
     Dan Boneh, *Aditi Partap*, Lior Rotem. <br>
     *Accepted at Crypto'24*
@@ -62,10 +66,6 @@ Apart from work, I enjoy reading, travelling and social dancing.
 - [Proactive Refresh for Accountable Threshold Signatures](https://eprint.iacr.org/2022/1656) <br>
     Dan Boneh, *Aditi Partap*, Lior Rotem. <br>
     *Accepted at Financial Cryptography (FC) 2024*
-
-- [Accountable Multi-Signatures with Constant Size Public Keys](https://eprint.iacr.org/2023/1793) <br>
-    Dan Boneh, *Aditi Partap*, Brent Waters. <br>
-    *Accepted at Public Key Cryptography (PKC) 2025*
 
 - [Memory Tagging: A Memory Efficient Design](https://arxiv.org/abs/2209.00307) <br>
     *Aditi Partap*, Dan Boneh. <br>
