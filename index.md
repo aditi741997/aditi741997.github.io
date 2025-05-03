@@ -45,7 +45,7 @@ Apart from work, I enjoy reading, travelling and social dancing.
 ## <span style="font-family:'Candara Light';">Publications</span>
 - [Traceable Verifiable Random Functions](https://eprint.iacr.org/2025/312) <br>
     Dan Boneh, *Aditi Partap*, Lior Rotem. <br>
-    *Submitted to Crypto'25*
+    *Accepted at Crypto'25*
 
 - [Traceable Secret Sharing: Strong Security and Efficient Constructions](https://eprint.iacr.org/2024/405) <br>
     Dan Boneh, *Aditi Partap*, Lior Rotem. <br>
@@ -75,6 +75,7 @@ Apart from work, I enjoy reading, travelling and social dancing.
 ## <span style="font-family: 'PT Serif';"> Talks</span>
 
 - Traceable Verifiable Random Functions \[[Slides](/static/Traceable_VRF_SeminarV2.pptx)\]
+  * at Cryptographic Tools for Blockchains Workshop ([CTB](https://www.ctb-workshop.org/)): May 2025 
   * at Bay Area Crypto Day: April 2025
   * at University of California, San Diego Theory Seminar: April 2025
   * at University of Washington, Seattle Crypto Reading group: April 2025
