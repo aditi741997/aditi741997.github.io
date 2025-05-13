@@ -59,13 +59,13 @@ Apart from work, I enjoy reading, travelling and social dancing.
     Dan Boneh, *Aditi Partap*, Lior Rotem. <br>
     *Accepted at Crypto'24*
 
-- [Post-Quantum Single Secret Leader Election (SSLE) From Publicly Re-randomizable Commitments](https://eprint.iacr.org/2023/1241) <br>
-    Dan Boneh, *Aditi Partap*, Lior Rotem. <br>
-    *Accepted at Advances in Financial Technologies (AFT) 2023*
-
 - [Proactive Refresh for Accountable Threshold Signatures](https://eprint.iacr.org/2022/1656) <br>
     Dan Boneh, *Aditi Partap*, Lior Rotem. <br>
     *Accepted at Financial Cryptography (FC) 2024*
+
+- [Post-Quantum Single Secret Leader Election (SSLE) From Publicly Re-randomizable Commitments](https://eprint.iacr.org/2023/1241) <br>
+    Dan Boneh, *Aditi Partap*, Lior Rotem. <br>
+    *Accepted at Advances in Financial Technologies (AFT) 2023*
 
 - [Memory Tagging: A Memory Efficient Design](https://arxiv.org/abs/2209.00307) <br>
     *Aditi Partap*, Dan Boneh. <br>
@@ -79,6 +79,9 @@ Apart from work, I enjoy reading, travelling and social dancing.
   * at Bay Area Crypto Day: April 2025
   * at University of California, San Diego Theory Seminar: April 2025
   * at University of Washington, Seattle Crypto Reading group: April 2025
+
+- Accountable Multi-Signatures with Constant Size Public Keys
+  * at Public Key Cryptography Conference (PKC): May 2025
 
 - Traceable Secret Sharing: Strong Security and Efficient Constructions \[[Slides](/static/CryptoDay_TraceableSS.pptx)\]
   * at University of California, Los Angeles Crypto Reading group: April 2025
