@@ -43,6 +43,10 @@ Apart from work, I enjoy reading, travelling and social dancing.
 ---
 
 ## <span style="font-family:'Candara Light';">Publications</span>
+- [Data Availability Sampling with Efficient Repair: Definitions and New Constructions] <br>
+    Dan Boneh, Joachim Neu, Valeria Nikolaenko, *Aditi Partap*. <br>
+    *Submitted to IEEE S&P'26*
+
 - [Traceable Verifiable Random Functions](https://eprint.iacr.org/2025/312) <br>
     Dan Boneh, *Aditi Partap*, Lior Rotem. <br>
     *Accepted at Crypto'25*
@@ -75,6 +79,8 @@ Apart from work, I enjoy reading, travelling and social dancing.
 ## <span style="font-family: 'PT Serif';"> Talks</span>
 
 - Traceable Verifiable Random Functions \[[Slides](/static/Traceable_VRF_SeminarV2.pptx)\]
+  * at CIFRA Institute Cryptography Seminar (at Bocconi University): May 2025 
+  * at EPFL Cryptography Seminar: May 2025 
   * at Cryptographic Tools for Blockchains Workshop ([CTB](https://www.ctb-workshop.org/)): May 2025 
   * at Bay Area Crypto Day: April 2025
   * at University of California, San Diego Theory Seminar: April 2025
