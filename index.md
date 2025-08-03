@@ -43,7 +43,7 @@ Apart from work, I enjoy reading, travelling and social dancing.
 ---
 
 ## <span style="font-family:'Candara Light';">Publications</span>
-- [Data Availability Sampling with Efficient Repair: Definitions and New Constructions] <br>
+- [Data Availability Sampling with Repair](/static/Coding_for_Data_availability_Eprint.pdf) <br>
     Dan Boneh, Joachim Neu, Valeria Nikolaenko, *Aditi Partap*. <br>
     *Submitted to IEEE S&P'26*
 
