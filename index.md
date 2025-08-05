@@ -43,7 +43,8 @@ Apart from work, I enjoy reading, travelling and social dancing.
 ---
 
 ## <span style="font-family:'Candara Light';">Publications</span>
-- [Data Availability Sampling with Repair](/static/Coding_for_Data_availability_Eprint.pdf) <br>
+<div style="font-family: 'Candara Light';">
+- [Data Availability Sampling with Repair](https://eprint.iacr.org/2025/1414) <br>
     Dan Boneh, Joachim Neu, Valeria Nikolaenko, *Aditi Partap*. <br>
     *Submitted to IEEE S&P'26*
 
@@ -73,10 +74,21 @@ Apart from work, I enjoy reading, travelling and social dancing.
 
 - [Memory Tagging: A Memory Efficient Design](https://arxiv.org/abs/2209.00307) <br>
     *Aditi Partap*, Dan Boneh. <br>
+</div>
+
+- <!-- <a href="https://eprint.iacr.org/2025/1414">Data Availability Sampling with Repair</a> <br>
+    Dan Boneh, Joachim Neu, Valeria Nikolaenko, *Aditi Partap*. <br>
+    *Submitted to IEEE S&P'26*
+
+- <a href="https://eprint.iacr.org/2025/312">Traceable Verifiable Random Functions</a> <br>
+    Dan Boneh, *Aditi Partap*, Lior Rotem. <br>
+    *Accepted at Crypto'25* -->
 
 ---
 
 ## <span style="font-family: 'PT Serif';"> Talks</span>
+- Data Availability Sampling with Repair
+  * at Science of Blockchain Conference (SBC): August 2025
 
 - Traceable Verifiable Random Functions \[[Slides](/static/Traceable_VRF_SeminarV2.pptx)\]
   * at CIFRA Institute Cryptography Seminar (at Bocconi University): May 2025 
