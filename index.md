@@ -43,61 +43,40 @@ Apart from work, I enjoy reading, travelling and social dancing.
 ---
 
 ## <span style="font-family:'Candara Light';">Publications</span>
-<div style="font-family: 'Candara Light', sans-serif;">
-  <ul>
-    <li>
-      <a href="https://eprint.iacr.org/2025/1414">Data Availability Sampling with Repair</a><br>
-      Dan Boneh, Joachim Neu, Valeria Nikolaenko, <em>Aditi Partap</em>.<br>
-      <em>Submitted to IEEE S&amp;P'26</em>
-    </li>
-    <li>
-      <a href="https://eprint.iacr.org/2025/312">Traceable Verifiable Random Functions</a><br>
-      Dan Boneh, <em>Aditi Partap</em>, Lior Rotem.<br>
-      <em>Accepted at Crypto'25</em>
-    </li>
-    <li>
-      <a href="https://eprint.iacr.org/2023/1793">Accountable Multi-Signatures with Constant Size Public Keys</a><br>
-      Dan Boneh, <em>Aditi Partap</em>, Brent Waters.<br>
-      <em>Accepted at Public Key Cryptography (PKC) 2025</em>
-    </li>
-    <li>
-      <a href="https://eprint.iacr.org/2024/405">Traceable Secret Sharing: Strong Security and Efficient Constructions</a><br>
-      Dan Boneh, <em>Aditi Partap</em>, Lior Rotem.<br>
-      <em>Accepted at Crypto'24</em>
-    </li>
-    <li>
-      <a href="https://eprint.iacr.org/2023/1724">Accountability for Misbehavior in Threshold Decryption via Threshold Traitor Tracing</a><br>
-      Dan Boneh, <em>Aditi Partap</em>, Lior Rotem.<br>
-      <em>Accepted at Crypto'24</em>
-    </li>
-    <li>
-      <a href="https://eprint.iacr.org/2022/1656">Proactive Refresh for Accountable Threshold Signatures</a><br>
-      Dan Boneh, <em>Aditi Partap</em>, Lior Rotem.<br>
-      <em>Accepted at Financial Cryptography (FC) 2024</em>
-    </li>
-    <li>
-      <a href="https://eprint.iacr.org/2023/1241">Post-Quantum Single Secret Leader Election (SSLE) From Publicly Re-randomizable Commitments</a><br>
-      Dan Boneh, <em>Aditi Partap</em>, Lior Rotem.<br>
-      <em>Accepted at Advances in Financial Technologies (AFT) 2023</em>
-    </li>
-    <li>
-      <a href="https://arxiv.org/abs/2209.00307">Memory Tagging: A Memory Efficient Design</a><br>
-      <em>Aditi Partap</em>, Dan Boneh.<br>
-    </li>
-  </ul>
-</div>
-
-- <!-- <a href="https://eprint.iacr.org/2025/1414">Data Availability Sampling with Repair</a> <br>
+- [Data Availability Sampling with Efficient Repair: Definitions and New Constructions](https://eprint.iacr.org/2025/1414) <br>
     Dan Boneh, Joachim Neu, Valeria Nikolaenko, *Aditi Partap*. <br>
     *Submitted to IEEE S&P'26*
 
-- <a href="https://eprint.iacr.org/2025/312">Traceable Verifiable Random Functions</a> <br>
+- [Traceable Verifiable Random Functions](https://eprint.iacr.org/2025/312) <br>
     Dan Boneh, *Aditi Partap*, Lior Rotem. <br>
-    *Accepted at Crypto'25* -->
+    *Accepted at Crypto'25*
+
+- [Accountable Multi-Signatures with Constant Size Public Keys](https://eprint.iacr.org/2023/1793) <br>
+    Dan Boneh, *Aditi Partap*, Brent Waters. <br>
+    *Accepted at Public Key Cryptography (PKC) 2025*
+
+- [Traceable Secret Sharing: Strong Security and Efficient Constructions](https://eprint.iacr.org/2024/405) <br>
+    Dan Boneh, *Aditi Partap*, Lior Rotem. <br>
+    *Accepted at Crypto'24*
+
+- [Accountability for Misbehavior in Threshold Decryption via Threshold Traitor Tracing](https://eprint.iacr.org/2023/1724) <br>
+    Dan Boneh, *Aditi Partap*, Lior Rotem. <br>
+    *Accepted at Crypto'24*
+
+- [Proactive Refresh for Accountable Threshold Signatures](https://eprint.iacr.org/2022/1656) <br>
+    Dan Boneh, *Aditi Partap*, Lior Rotem. <br>
+    *Accepted at Financial Cryptography (FC) 2024*
+
+- [Post-Quantum Single Secret Leader Election (SSLE) From Publicly Re-randomizable Commitments](https://eprint.iacr.org/2023/1241) <br>
+    Dan Boneh, *Aditi Partap*, Lior Rotem. <br>
+    *Accepted at Advances in Financial Technologies (AFT) 2023*
+
+- [Memory Tagging: A Memory Efficient Design](https://arxiv.org/abs/2209.00307) <br>
+    *Aditi Partap*, Dan Boneh. <br>
 
 ---
 
-## <span style="font-family: 'PT Serif';"> Talks</span>
+## <span style="font-family: 'Candara Light';"> Talks</span>
 - Data Availability Sampling with Repair
   * at Science of Blockchain Conference (SBC): August 2025
 
