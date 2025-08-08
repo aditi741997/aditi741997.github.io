@@ -1,5 +1,3 @@
-<div style="font-family: Georgia, serif;">
-
 ---
 layout: default
 title: Aditi Partap
@@ -160,6 +158,3 @@ Apart from work, I enjoy reading, travelling and social dancing.
 - [Answering POI-recommendation Questions using Tourism Reviews](https://dl.acm.org/doi/10.1145/3459637.3482320) <br>
     Danish Contractor, Krunal Shah, *Aditi Partap*, Parag Singla, Mausam. <br>
     *In Proceedings of the 30th ACM International Conference on Information \& Knowledge Management (CIKM), 2021*
-
-
-</div>
