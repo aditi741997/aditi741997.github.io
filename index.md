@@ -1,3 +1,5 @@
+<div style="font-family: Georgia, serif;">
+
 ---
 layout: default
 title: Aditi Partap
@@ -34,7 +36,7 @@ Apart from work, I enjoy reading, travelling and social dancing.
 
 ## <span style="font-family:Georgia;">Contact</span>
 
-<span style="font-family:'Candara Light';">
+<span style="font-family:Georgia;">
 **Email:** aditi712 at stanford.edu
 </span>
 
@@ -42,7 +44,7 @@ Apart from work, I enjoy reading, travelling and social dancing.
 
 ---
 
-## <span style="font-family:'Candara Light';">Publications</span>
+## <span >Publications</span>
 - [Data Availability Sampling with Efficient Repair: Definitions and New Constructions](https://eprint.iacr.org/2025/1414) <br>
     Dan Boneh, Joachim Neu, Valeria Nikolaenko, *Aditi Partap*. <br>
     *Submitted to IEEE S&P'26*
@@ -76,7 +78,7 @@ Apart from work, I enjoy reading, travelling and social dancing.
 
 ---
 
-## <span style="font-family: 'Candara Light';"> Talks</span>
+## <span > Talks</span>
 - Data Availability Sampling with Repair
   * at Science of Blockchain Conference (SBC): August 2025
 
@@ -115,7 +117,7 @@ Apart from work, I enjoy reading, travelling and social dancing.
 
 ---
 
-## <span style="font-family:'Candara Light';"> Work Experience</span>
+## <span > Work Experience</span>
 
 <!-- <span style="font-family:'Candara Light';"> -->
 - Research Intern at the Andreessen Horowitz Capital Management (a16z) Crypto Group, Summer 2024 
@@ -124,7 +126,7 @@ Apart from work, I enjoy reading, travelling and social dancing.
 
  ---
 
-## <span style="font-family:'Candara Light';"> Teaching & Service </span>
+## <span > Teaching & Service </span>
 
 <!-- <span style="font-family:'Candara Light';"> -->
 - Instructor for CS355: Advanced Cryptography, Spring 2024. Co-taught with Wilson Nguyen and Trisha Datta \[[site](https://crypto.stanford.edu/cs355/24sp/)\].
@@ -138,7 +140,7 @@ Apart from work, I enjoy reading, travelling and social dancing.
 
 ---
 
-## <span style="font-family:'Candara Light';">Past Research Experience</span>
+## <span >Past Research Experience</span>
 - [Optimizing video analytics with declarative model relationships](https://dl.acm.org/doi/abs/10.14778/3570690.3570695) <br>
     Francisco Romero, Johann Hauswald, *Aditi Partap*, Daniel Kang, Matei Zaharia, Christos Kozyrakis
     *In Proceedings of the VLDB Endowment, 2022*
@@ -160,3 +162,4 @@ Apart from work, I enjoy reading, travelling and social dancing.
     *In Proceedings of the 30th ACM International Conference on Information \& Knowledge Management (CIKM), 2021*
 
 
+</div>
