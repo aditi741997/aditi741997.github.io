@@ -4,17 +4,17 @@ title: Aditi Partap
 description: Aditi Partap's website
 ---
 
-# <span style="font-family:'Candara Light';"> Aditi Partap </span>
+# <span style="font-family:Georgia;"> Aditi Partap </span>
 <img src="/static/japan_pic.jpg" alt="Aditi" style="width: 220px; height: 210px; float: right; margin: 10px"/>
 <!-- ![Kapil](/static/PXL_20210829_150802540.PORTRAIT.jpg) -->
 <!-- Screen Shot 2021-10-10 at 11.17.23 PM.png -->
 ---
 
-<span style="font-family:'Candara Light';">
+<span style="font-family:Georgia;">
 I am a fourth year CS Ph.D. student at Stanford University, where I work on cryptography research. I am advised by [Dan Boneh](https://crypto.stanford.edu/~dabo/). My current focus is on accountability in threshold cryptography and leader election protocols.
 </span>
 
-<span style="font-family:'Candara Light';">
+<span style="font-family:Georgia;">
 Prior to joining Stanford, I completed my Masters in May 2021 from University of Illinois at Urbana Champaign. I received my bachelors degree in Computer Science from IIT Delhi in 2018. 
 <!-- where I built Catan, a CPU scheduling framework for Robotics & AR/VR. I was advised by [Radhika Mittal](http://radhikam.web.illinois.edu/) and [Brighten Godfrey](https://pbg.cs.illinois.edu/). In the summer of 2021, I interned at Microsoft Research with the [RFI](https://www.microsoft.com/en-us/research/group/research-for-industry/) group, where I worked with [Ranveer Chandra](https://www.microsoft.com/en-us/research/people/ranveer/) and [Anirudh Badam](https://www.microsoft.com/en-us/research/people/anbadam/).  -->
 </span>
@@ -24,7 +24,7 @@ A little more history - I received my bachelors degree in Computer Science from 
 [Emerald](https://www.emeraldinno.com/).
 </span> -->
 
-<span style="font-family:'Candara Light';">
+<span style="font-family:Georgia;">
 Apart from work, I enjoy reading, travelling and social dancing.
 </span>
 
@@ -32,7 +32,7 @@ Apart from work, I enjoy reading, travelling and social dancing.
 
 ---
 
-## <span style="font-family:'Candara Light';">Contact</span>
+## <span style="font-family:Georgia;">Contact</span>
 
 <span style="font-family:'Candara Light';">
 **Email:** aditi712 at stanford.edu
