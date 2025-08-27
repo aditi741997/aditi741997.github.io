@@ -47,6 +47,10 @@ Apart from work, I enjoy reading, travelling and social dancing.
     Dan Boneh, Joachim Neu, Valeria Nikolaenko, *Aditi Partap*. <br>
     *Submitted to IEEE S&P'26*
 
+- Breaking Omertà: On Threshold Cryptography,Smart Collusion, and Whistleblowing <br>
+    Mahimna Kelkar, Aadityan Ganesh, *Aditi Partap*, Joseph Bonneau, S. Matthew Weinberg. <br>
+    *Accepted at CCS'25*
+
 - [Traceable Verifiable Random Functions](https://eprint.iacr.org/2025/312) <br>
     Dan Boneh, *Aditi Partap*, Lior Rotem. <br>
     *Accepted at Crypto'25*
@@ -77,10 +81,11 @@ Apart from work, I enjoy reading, travelling and social dancing.
 ---
 
 ## <span > Talks</span>
-- Data Availability Sampling with Repair
+- Data Availability Sampling with Repair \[[Slides](/static/SBC_Slides_V2.pptx)\]
   * at Science of Blockchain Conference (SBC): August 2025
 
 - Traceable Verifiable Random Functions \[[Slides](/static/Traceable_VRF_SeminarV2.pptx)\]
+  * at International Cryptography Conference (Crypto): August 2025
   * at CIFRA Institute Cryptography Seminar (at Bocconi University): May 2025 
   * at EPFL Cryptography Seminar: May 2025 
   * at Cryptographic Tools for Blockchains Workshop ([CTB](https://www.ctb-workshop.org/)): May 2025 
@@ -92,6 +97,7 @@ Apart from work, I enjoy reading, travelling and social dancing.
   * at Public Key Cryptography Conference (PKC): May 2025
 
 - Traceable Secret Sharing: Strong Security and Efficient Constructions \[[Slides](/static/CryptoDay_TraceableSS.pptx)\]
+  * at Conference on Information-Theoretic Cryptography (ITC): August 2025
   * at University of California, Los Angeles Crypto Reading group: April 2025
   * at Bay Area Crypto Day: April 2024
 
@@ -128,7 +134,7 @@ Apart from work, I enjoy reading, travelling and social dancing.
 
 <!-- <span style="font-family:'Candara Light';"> -->
 - Instructor for CS355: Advanced Cryptography, Spring 2024. Co-taught with Wilson Nguyen and Trisha Datta \[[site](https://crypto.stanford.edu/cs355/24sp/)\].
-- External reviewer for EuroCrypt 2025 and Crypto 2023-25, AsiaCrypt and Theory of Cryptography (TCC) 2024 conferences.
+- External reviewer for EuroCrypt 2025 and Crypto 2023-25, AsiaCrypt and Theory of Cryptography (TCC) 2024-25 conferences.
 - Co-organizer of Graduate CS Women's Lunch at Stanford University.
 - Designed a puzzle for ZK-Hacks III, based on the Cheon attack, that can break the security of zk-SNARKs. Used arkworks to develop the [puzzle](https://zkhack.dev/zkhackIII/puzzleT2.html).
 <!-- - Among Top 100 students selected from universities across Europe, Asia & the Americas to attend the Cornell, Maryland, Max Planck Pre-doctoral Research School (CMMRS), 2018.  -->
@@ -143,10 +149,6 @@ Apart from work, I enjoy reading, travelling and social dancing.
     Francisco Romero, Johann Hauswald, *Aditi Partap*, Daniel Kang, Matei Zaharia, Christos Kozyrakis
     *In Proceedings of the VLDB Endowment, 2022*
 
-- [DeepG2P: Fusing Multi-Modal Data to Improve Crop Production](https://arxiv.org/abs/2211.05986) <br>
-    Swati Sharma, *Aditi Partap*, Maria Angels de Luis Balaguer, Sara Malvar, Ranveer Chandra. <br>
-    *In submission at AISTATS'23*
-
 - [Fast and efficient lookups via data-driven FIB designs](https://dl.acm.org/doi/10.1145/3527974.3545728) <br>
     Sachin Ashok, *Aditi Partap*, Ammar Tahir. <br>
     *In Proceedings of the ACM SIGCOMM Workshop on Future of Internet Routing \& Addressing (FIRA), 2022*
@@ -158,3 +160,6 @@ Apart from work, I enjoy reading, travelling and social dancing.
 - [Answering POI-recommendation Questions using Tourism Reviews](https://dl.acm.org/doi/10.1145/3459637.3482320) <br>
     Danish Contractor, Krunal Shah, *Aditi Partap*, Parag Singla, Mausam. <br>
     *In Proceedings of the 30th ACM International Conference on Information \& Knowledge Management (CIKM), 2021*
+
+- [DeepG2P: Fusing Multi-Modal Data to Improve Crop Production](https://arxiv.org/abs/2211.05986) <br>
+    Swati Sharma, *Aditi Partap*, Maria Angels de Luis Balaguer, Sara Malvar, Ranveer Chandra. <br>
