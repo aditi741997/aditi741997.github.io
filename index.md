@@ -47,7 +47,7 @@ Apart from work, I enjoy reading, travelling and social dancing.
     Dan Boneh, Joachim Neu, Valeria Nikolaenko, *Aditi Partap*. <br>
     *Submitted to IEEE S&P'26*
 
-- Breaking Omertà: On Threshold Cryptography,Smart Collusion, and Whistleblowing <br>
+- [Breaking Omertà: On Threshold Cryptography, Smart Collusion, and Whistleblowing](https://eprint.iacr.org/2025/1582) <br>
     Mahimna Kelkar, Aadityan Ganesh, *Aditi Partap*, Joseph Bonneau, S. Matthew Weinberg. <br>
     *Accepted at CCS'25*
 
@@ -124,6 +124,7 @@ Apart from work, I enjoy reading, travelling and social dancing.
 ## <span > Work Experience</span>
 
 <!-- <span style="font-family:'Candara Light';"> -->
+- Research Intern at the NTT CIS Lab, Summer 2025
 - Research Intern at the Andreessen Horowitz Capital Management (a16z) Crypto Group, Summer 2024 
 - Research Intern at the RFI group @Microsoft Research, Summer 2021
 <!-- </span> -->
