@@ -43,6 +43,10 @@ Apart from work, I enjoy reading, travelling and social dancing.
 ---
 
 ## <span >Publications</span>
+- Traceable Secret Sharing Revisited <br>
+    Vipul Goyal, Abhishek Jain, *Aditi Partap*. <br>
+    *Submitted to EuroCrypt'25*
+
 - [Data Availability Sampling with Efficient Repair: Definitions and New Constructions](https://eprint.iacr.org/2025/1414) <br>
     Dan Boneh, Joachim Neu, Valeria Nikolaenko, *Aditi Partap*. <br>
     *Submitted to IEEE S&P'26*
