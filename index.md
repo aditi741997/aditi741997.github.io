@@ -43,7 +43,7 @@ Apart from work, I enjoy reading, travelling and social dancing.
 ---
 
 ## <span >Publications</span>
-- Traceable Secret Sharing Revisited <br>
+- [Traceable Secret Sharing Revisited](https://eprint.iacr.org/2025/1980) <br>
     Vipul Goyal, Abhishek Jain, *Aditi Partap*. <br>
     *Submitted to EuroCrypt'25*
 
