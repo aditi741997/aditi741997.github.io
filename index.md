@@ -43,7 +43,7 @@ Apart from work, I enjoy reading, travelling and social dancing.
 ---
 
 ## <span >Publications</span>
-- Optimal Threshold traitor Tracing <br>
+- Optimal Threshold Traitor Tracing <br>
     Sourav Das, Pratish Datta, *Aditi Partap*, Swagata Sasmal, Mark Zhandry. <br>
     *Submitted to EuroCrypt'26*
 
@@ -90,6 +90,7 @@ Apart from work, I enjoy reading, travelling and social dancing.
 
 ## <span > Talks</span>
 - Data Availability Sampling with Repair \[[Slides](/static/SBC_Slides_V2.pptx)\]
+  * at University of Michigan, Ann Arbor Crypto Reading Group: November 2025
   * at Science of Blockchain Conference (SBC): August 2025
 
 - Traceable Verifiable Random Functions \[[Slides](/static/Traceable_VRF_SeminarV2.pptx)\]
@@ -99,7 +100,7 @@ Apart from work, I enjoy reading, travelling and social dancing.
   * at Cryptographic Tools for Blockchains Workshop ([CTB](https://www.ctb-workshop.org/)): May 2025 
   * at Bay Area Crypto Day: April 2025
   * at University of California, San Diego Theory Seminar: April 2025
-  * at University of Washington, Seattle Crypto Reading group: April 2025
+  * at University of Washington, Seattle Crypto Reading Group: April 2025
 
 - Accountable Multi-Signatures with Constant Size Public Keys
   * at Public Key Cryptography Conference (PKC): May 2025
