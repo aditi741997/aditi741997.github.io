@@ -11,7 +11,7 @@ description: Aditi Partap's website
 ---
 
 <span style="font-family:Georgia;">
-I am a fourth year CS Ph.D. student at Stanford University, where I work on cryptography research. I am advised by [Dan Boneh](https://crypto.stanford.edu/~dabo/). My current focus is on accountability in threshold cryptography and leader election protocols.
+I am a fifth year CS Ph.D. student at Stanford University, where I work on cryptography research. I am advised by [Dan Boneh](https://crypto.stanford.edu/~dabo/). My current focus is on accountability in threshold cryptography and leader election protocols.
 </span>
 
 <span style="font-family:Georgia;">
