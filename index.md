@@ -28,7 +28,7 @@ A little more history - I received my bachelors degree in Computer Science from 
 Apart from work, I enjoy reading, travelling and social dancing.
 </span>
 
-\[[CV](/static/Aditi_CV_Updated_Mar2024.pdf)\]  \[[Google Scholar](https://scholar.google.com/citations?user=XYNtWYwAAAAJ&hl=en)\]
+\[[CV](/static/Aditi_CV_Grad_Nov2025.pdf)\]  \[[Google Scholar](https://scholar.google.com/citations?user=XYNtWYwAAAAJ&hl=en)\]
 
 ---
 
