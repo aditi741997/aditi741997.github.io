@@ -43,7 +43,7 @@ Apart from work, I enjoy reading, travelling and social dancing.
 ---
 
 ## <span >Publications</span>
-- Optimal Threshold Traitor Tracing <br>
+- [Optimal Threshold Traitor Tracing](https://eprint.iacr.org/2025/2154) <br>
     Sourav Das, Pratish Datta, *Aditi Partap*, Swagata Sasmal, Mark Zhandry. <br>
     *Submitted to EuroCrypt'26*
 
