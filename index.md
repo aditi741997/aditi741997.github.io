@@ -53,7 +53,7 @@ Apart from work, I enjoy reading, travelling and social dancing.
 
 - [Data Availability Sampling with Efficient Repair: Definitions and New Constructions](https://eprint.iacr.org/2025/1414) <br>
     Dan Boneh, Joachim Neu, Valeria Nikolaenko, *Aditi Partap*. <br>
-    *Submitted to IEEE S&P'26*
+    *Submitted to CCS'26*
 
 - [Breaking Omertà: On Threshold Cryptography, Smart Collusion, and Whistleblowing](https://eprint.iacr.org/2025/1582) <br>
     Mahimna Kelkar, Aadityan Ganesh, *Aditi Partap*, Joseph Bonneau, S. Matthew Weinberg. <br>
@@ -106,6 +106,7 @@ Apart from work, I enjoy reading, travelling and social dancing.
   * at Public Key Cryptography Conference (PKC): May 2025
 
 - Traceable Secret Sharing: Strong Security and Efficient Constructions \[[Slides](/static/CryptoDay_TraceableSS.pptx)\]
+  * at Indian Institute of Technology, Delhi Theory Seminar: January 2026
   * at Conference on Information-Theoretic Cryptography (ITC): August 2025
   * at University of California, Los Angeles Crypto Reading group: April 2025
   * at Bay Area Crypto Day: April 2024
