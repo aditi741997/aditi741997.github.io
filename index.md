@@ -45,11 +45,11 @@ Apart from work, I enjoy reading, travelling and social dancing.
 ## <span >Publications</span>
 - [Optimal Threshold Traitor Tracing](https://eprint.iacr.org/2025/2154) <br>
     Sourav Das, Pratish Datta, *Aditi Partap*, Swagata Sasmal, Mark Zhandry. <br>
-    *Submitted to EuroCrypt'26*
+    *Accepted at EuroCrypt'26*
 
 - [Traceable Secret Sharing Revisited](https://eprint.iacr.org/2025/1980) <br>
     Vipul Goyal, Abhishek Jain, *Aditi Partap*. <br>
-    *Submitted to EuroCrypt'26*
+    *Accepted at EuroCrypt'26*
 
 - [Data Availability Sampling with Efficient Repair: Definitions and New Constructions](https://eprint.iacr.org/2025/1414) <br>
     Dan Boneh, Joachim Neu, Valeria Nikolaenko, *Aditi Partap*. <br>
