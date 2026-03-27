@@ -90,6 +90,7 @@ Apart from work, I enjoy reading, travelling and social dancing.
 
 ## <span > Talks</span>
 - Data Availability Sampling with Repair \[[Slides](/static/SBC_Slides_V2.pptx)\]
+  * at the MIT Decentralized Coding Workshop: March 2026 
   * at University of Michigan, Ann Arbor Crypto Reading Group: November 2025
   * at Science of Blockchain Conference (SBC): August 2025
 
@@ -106,6 +107,8 @@ Apart from work, I enjoy reading, travelling and social dancing.
   * at Public Key Cryptography Conference (PKC): May 2025
 
 - Traceable Secret Sharing: Strong Security and Efficient Constructions \[[Slides](/static/CryptoDay_TraceableSS.pptx)\]
+  * at Northeastern University Cryptography Seminar: March 2026
+  * at Boston University Cryptography Seminar: March 2026
   * at Indian Institute of Technology, Delhi Theory Seminar: January 2026
   * at Conference on Information-Theoretic Cryptography (ITC): August 2025
   * at University of California, Los Angeles Crypto Reading group: April 2025
@@ -145,7 +148,7 @@ Apart from work, I enjoy reading, travelling and social dancing.
 
 <!-- <span style="font-family:'Candara Light';"> -->
 - Instructor for CS355: Advanced Cryptography, Spring 2024. Co-taught with Wilson Nguyen and Trisha Datta \[[site](https://crypto.stanford.edu/cs355/24sp/)\].
-- External reviewer for EuroCrypt 2025 and Crypto 2023-25, AsiaCrypt and Theory of Cryptography (TCC) 2024-25 conferences.
+- External reviewer for EuroCrypt 2025-26 and Crypto 2023-25, AsiaCrypt and Theory of Cryptography (TCC) 2024-25 conferences.
 - Co-organizer of Graduate CS Women's Lunch at Stanford University.
 - Designed a puzzle for ZK-Hacks III, based on the Cheon attack, that can break the security of zk-SNARKs. Used arkworks to develop the [puzzle](https://zkhack.dev/zkhackIII/puzzleT2.html).
 <!-- - Among Top 100 students selected from universities across Europe, Asia & the Americas to attend the Cornell, Maryland, Max Planck Pre-doctoral Research School (CMMRS), 2018.  -->
