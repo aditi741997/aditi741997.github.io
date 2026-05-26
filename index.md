@@ -43,6 +43,10 @@ Apart from work, I enjoy reading, travelling and social dancing.
 ---
 
 ## <span >Publications</span>
+- Catching Many Traitors in Threshold Traitor Tracing: Lower Bounds and Constructions <br>
+    Dan Boneh, *Aditi Partap*, Mark Zhandry. <br>
+    * Submitted to AsiaCrypt'26*
+
 - [Optimal Threshold Traitor Tracing](https://eprint.iacr.org/2025/2154) <br>
     Sourav Das, Pratish Datta, *Aditi Partap*, Swagata Sasmal, Mark Zhandry. <br>
     *Accepted at EuroCrypt'26*
@@ -89,13 +93,22 @@ Apart from work, I enjoy reading, travelling and social dancing.
 ---
 
 ## <span > Talks</span>
+- Traceable Secret Sharing Revisited
+  * at IACR EuroCrypt: May 2026
+
+- Optimal Threshold Traitor Tracing
+  * at IACR EuroCrypt: May 2026
+
 - Data Availability Sampling with Repair \[[Slides](/static/SBC_Slides_V2.pptx)\]
+  * at Cryptographic Tools for Blockchains Workshop ([CTB](https://www.ctb-workshop.org/)): May 2026
+  * at Yale Applied Cryptography Seminar: May 2026
+  * at Carnegie Mellon University CyLab Crypto Seminar: May 2026
   * at the MIT Decentralized Coding Workshop: March 2026 
   * at University of Michigan, Ann Arbor Crypto Reading Group: November 2025
   * at Science of Blockchain Conference (SBC): August 2025
 
 - Traceable Verifiable Random Functions \[[Slides](/static/Traceable_VRF_SeminarV2.pptx)\]
-  * at International Cryptography Conference (Crypto): August 2025
+  * at IACR International Cryptography Conference (Crypto): August 2025
   * at CIFRA Institute Cryptography Seminar (at Bocconi University): May 2025 
   * at EPFL Cryptography Seminar: May 2025 
   * at Cryptographic Tools for Blockchains Workshop ([CTB](https://www.ctb-workshop.org/)): May 2025 
@@ -107,6 +120,7 @@ Apart from work, I enjoy reading, travelling and social dancing.
   * at Public Key Cryptography Conference (PKC): May 2025
 
 - Traceable Secret Sharing: Strong Security and Efficient Constructions \[[Slides](/static/CryptoDay_TraceableSS.pptx)\]
+  * at Cornell University Theory Seminar: May 2026
   * at Northeastern University Cryptography Seminar: March 2026
   * at Boston University Cryptography Seminar: March 2026
   * at Indian Institute of Technology, Delhi Theory Seminar: January 2026
@@ -115,7 +129,7 @@ Apart from work, I enjoy reading, travelling and social dancing.
   * at Bay Area Crypto Day: April 2024
 
 - Accountability for Misbehavior in Threshold Decryption via Threshold Traitor Tracing \[[Slides](/static/Seminar_Threshold_Decryption_v2.pptx)\]
-  * at International Cryptography Conference (Crypto): August 2024 \[[Video](https://youtu.be/yuXZXR8v_Po?list=PLeeS-3Ml-rprqjxP_UcoPRdnj1BmELWfp&t=1421)\]
+  * at IACR International Cryptography Conference (Crypto): August 2024 \[[Video](https://youtu.be/yuXZXR8v_Po?list=PLeeS-3Ml-rprqjxP_UcoPRdnj1BmELWfp&t=1421)\]
   * at New York University Crypto Reading Group: June 2024
   * at Carnegie Mellon University CyLab Crypto Seminar: April 2024 \[[Video](https://www.youtube.com/watch?v=W_Dzk_zZb88)\]
   * at NTT CIS Seminar: March 2024
