@@ -45,7 +45,7 @@ Apart from work, I enjoy reading, travelling and social dancing.
 ## <span >Publications</span>
 - Catching Many Traitors in Threshold Traitor Tracing: Lower Bounds and Constructions <br>
     Dan Boneh, *Aditi Partap*, Mark Zhandry. <br>
-    * Submitted to AsiaCrypt'26*
+    *Submitted to AsiaCrypt'26*
 
 - [Optimal Threshold Traitor Tracing](https://eprint.iacr.org/2025/2154) <br>
     Sourav Das, Pratish Datta, *Aditi Partap*, Swagata Sasmal, Mark Zhandry. <br>
