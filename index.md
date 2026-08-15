@@ -45,7 +45,7 @@ Apart from work, I enjoy reading, travelling and social dancing.
 ## <span >Publications</span>
 - Catching Many Traitors in Threshold Traitor Tracing: Lower Bounds and Constructions <br>
     Dan Boneh, *Aditi Partap*, Mark Zhandry. <br>
-    *Submitted to AsiaCrypt'26*
+    *Accepted at AsiaCrypt'26*
 
 - [Optimal Threshold Traitor Tracing](https://eprint.iacr.org/2025/2154) <br>
     Sourav Das, Pratish Datta, *Aditi Partap*, Swagata Sasmal, Mark Zhandry. <br>
@@ -120,6 +120,7 @@ Apart from work, I enjoy reading, travelling and social dancing.
   * at Public Key Cryptography Conference (PKC): May 2025
 
 - Traceable Secret Sharing: Strong Security and Efficient Constructions \[[Slides](/static/CryptoDay_TraceableSS.pptx)\]
+  * at J.P. Morgan Chase Cryptography Seminar: July 2026
   * at Cornell University Theory Seminar: May 2026
   * at Northeastern University Cryptography Seminar: March 2026
   * at Boston University Cryptography Seminar: March 2026
@@ -161,6 +162,7 @@ Apart from work, I enjoy reading, travelling and social dancing.
 ## <span > Teaching & Service </span>
 
 <!-- <span style="font-family:'Candara Light';"> -->
+- Instructor for CS355: Advanced Cryptography, Spring 2026. Co-taught with Rohit Nema and Trisha Datta \[[site](https://cs355.stanford.edu)\].
 - Instructor for CS355: Advanced Cryptography, Spring 2024. Co-taught with Wilson Nguyen and Trisha Datta \[[site](https://crypto.stanford.edu/cs355/24sp/)\].
 - External reviewer for EuroCrypt 2025-26 and Crypto 2023-25, AsiaCrypt and Theory of Cryptography (TCC) 2024-25 conferences.
 - Co-organizer of Graduate CS Women's Lunch at Stanford University.
