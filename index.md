@@ -43,7 +43,7 @@ Apart from work, I enjoy reading, travelling and social dancing.
 ---
 
 ## <span >Publications</span>
-- Catching Many Traitors in Threshold Traitor Tracing: Lower Bounds and Constructions <br>
+- [Catching Many Traitors in Threshold Traitor Tracing: Lower Bounds and Constructions](https://eprint.iacr.org/2026/1523) <br>
     Dan Boneh, *Aditi Partap*, Mark Zhandry. <br>
     *Accepted at AsiaCrypt'26*
 
@@ -120,6 +120,8 @@ Apart from work, I enjoy reading, travelling and social dancing.
   * at Public Key Cryptography Conference (PKC): May 2025
 
 - Traceable Secret Sharing: Strong Security and Efficient Constructions \[[Slides](/static/CryptoDay_TraceableSS.pptx)\]
+  * at Google Cryptography Seminar: August 2026
+  * at Amazon Cryptography Seminar: August 2026
   * at J.P. Morgan Chase Cryptography Seminar: July 2026
   * at Cornell University Theory Seminar: May 2026
   * at Northeastern University Cryptography Seminar: March 2026
@@ -152,6 +154,7 @@ Apart from work, I enjoy reading, travelling and social dancing.
 ## <span > Work Experience</span>
 
 <!-- <span style="font-family:'Candara Light';"> -->
+- Research Intern at the Andreessen Horowitz Capital Management (a16z) Crypto Group, Summer 2026
 - Research Intern at the NTT CIS Lab, Summer 2025
 - Research Intern at the Andreessen Horowitz Capital Management (a16z) Crypto Group, Summer 2024 
 - Research Intern at the RFI group @Microsoft Research, Summer 2021
