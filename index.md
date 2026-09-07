@@ -6,8 +6,6 @@ description: Aditi Partap's website
 
 # <span style="font-family:Georgia;"> Aditi Partap </span>
 <img src="/static/japan_pic.jpg" alt="Aditi" style="width: 220px; height: 210px; float: right; margin: 10px"/>
-<!-- ![Kapil](/static/PXL_20210829_150802540.PORTRAIT.jpg) -->
-<!-- Screen Shot 2021-10-10 at 11.17.23 PM.png -->
 ---
 
 <span style="font-family:Georgia;">
@@ -16,13 +14,7 @@ I am a fifth year CS Ph.D. student at Stanford University, where I work on crypt
 
 <span style="font-family:Georgia;">
 Prior to joining Stanford, I completed my Masters in May 2021 from University of Illinois at Urbana Champaign. I received my bachelors degree in Computer Science from IIT Delhi in 2018. 
-<!-- where I built Catan, a CPU scheduling framework for Robotics & AR/VR. I was advised by [Radhika Mittal](http://radhikam.web.illinois.edu/) and [Brighten Godfrey](https://pbg.cs.illinois.edu/). In the summer of 2021, I interned at Microsoft Research with the [RFI](https://www.microsoft.com/en-us/research/group/research-for-industry/) group, where I worked with [Ranveer Chandra](https://www.microsoft.com/en-us/research/people/ranveer/) and [Anirudh Badam](https://www.microsoft.com/en-us/research/people/anbadam/).  -->
 </span>
-
-<!-- <span style="font-family:'Candara Light';">
-A little more history - I received my bachelors degree in Computer Science from IIT Delhi in 2018. I pursued an internship with [Dina Katabi](https://www.csail.mit.edu/person/dina-katabi) in the summer of 2018, during which I worked on 
-[Emerald](https://www.emeraldinno.com/).
-</span> -->
 
 <span style="font-family:Georgia;">
 Apart from work, I enjoy reading, travelling and social dancing.
@@ -93,33 +85,11 @@ Apart from work, I enjoy reading, travelling and social dancing.
 ---
 
 ## <span > Talks</span>
-- Traceable Secret Sharing Revisited
-  * at IACR EuroCrypt: May 2026
 
-- Optimal Threshold Traitor Tracing
-  * at IACR EuroCrypt: May 2026
+### Invited and Seminar Talks
 
-- Data Availability Sampling with Repair \[[Slides](/static/SBC_Slides_V2.pptx)\]
-  * at Cryptographic Tools for Blockchains Workshop ([CTB](https://www.ctb-workshop.org/)): May 2026
-  * at Yale Applied Cryptography Seminar: May 2026
-  * at Carnegie Mellon University CyLab Crypto Seminar: May 2026
-  * at the MIT Decentralized Coding Workshop: March 2026 
-  * at University of Michigan, Ann Arbor Crypto Reading Group: November 2025
-  * at Science of Blockchain Conference (SBC): August 2025
-
-- Traceable Verifiable Random Functions \[[Slides](/static/Traceable_VRF_SeminarV2.pptx)\]
-  * at IACR International Cryptography Conference (Crypto): August 2025
-  * at CIFRA Institute Cryptography Seminar (at Bocconi University): May 2025 
-  * at EPFL Cryptography Seminar: May 2025 
-  * at Cryptographic Tools for Blockchains Workshop ([CTB](https://www.ctb-workshop.org/)): May 2025 
-  * at Bay Area Crypto Day: April 2025
-  * at University of California, San Diego Theory Seminar: April 2025
-  * at University of Washington, Seattle Crypto Reading Group: April 2025
-
-- Accountable Multi-Signatures with Constant Size Public Keys
-  * at Public Key Cryptography Conference (PKC): May 2025
-
-- Traceable Secret Sharing: Strong Security and Efficient Constructions \[[Slides](/static/CryptoDay_TraceableSS.pptx)\]
+- **Traceable Secret Sharing: From Thresholds to General Access Structures** \[[Slides](/static/Seminar_TraceableSS_August2026.pptx)\]  
+  Based on [Traceable Secret Sharing: Strong Security and Efficient Constructions](https://eprint.iacr.org/2024/405) (Crypto 2024) and [Traceable Secret Sharing Revisited](https://eprint.iacr.org/2025/1980) (EuroCrypt 2026).
   * at Google Cryptography Seminar: August 2026
   * at Amazon Cryptography Seminar: August 2026
   * at J.P. Morgan Chase Cryptography Seminar: July 2026
@@ -127,27 +97,65 @@ Apart from work, I enjoy reading, travelling and social dancing.
   * at Northeastern University Cryptography Seminar: March 2026
   * at Boston University Cryptography Seminar: March 2026
   * at Indian Institute of Technology, Delhi Theory Seminar: January 2026
-  * at Conference on Information-Theoretic Cryptography (ITC): August 2025
-  * at University of California, Los Angeles Crypto Reading group: April 2025
-  * at Bay Area Crypto Day: April 2024
+  * at University of California, Los Angeles Crypto Reading Group: April 2025
 
-- Accountability for Misbehavior in Threshold Decryption via Threshold Traitor Tracing \[[Slides](/static/Seminar_Threshold_Decryption_v2.pptx)\]
-  * at IACR International Cryptography Conference (Crypto): August 2024 \[[Video](https://youtu.be/yuXZXR8v_Po?list=PLeeS-3Ml-rprqjxP_UcoPRdnj1BmELWfp&t=1421)\]
+- **Data Availability Sampling with Repair** \[[Slides](/static/SBC_Slides_V2.pptx)\]
+  * at Yale Applied Cryptography Seminar: May 2026
+  * at Carnegie Mellon University CyLab Crypto Seminar: May 2026
+  * at University of Michigan, Ann Arbor Crypto Reading Group: November 2025
+
+- **Traceable Verifiable Random Functions** \[[Slides](/static/Traceable_VRF_SeminarV2.pptx)\]
+  * at CIFRA Institute Cryptography Seminar (at Bocconi University): May 2025
+  * at EPFL Cryptography Seminar: May 2025
+  * at University of California, San Diego Theory Seminar: April 2025
+  * at University of Washington, Seattle Crypto Reading Group: April 2025
+
+- **Accountability for Misbehavior in Threshold Decryption via Threshold Traitor Tracing** \[[Slides](/static/Seminar_Threshold_Decryption_v2.pptx)\]
   * at New York University Crypto Reading Group: June 2024
   * at Carnegie Mellon University CyLab Crypto Seminar: April 2024 \[[Video](https://www.youtube.com/watch?v=W_Dzk_zZb88)\]
   * at NTT CIS Seminar: March 2024
   * at University of California, Berkeley Security Seminar: November 2023
   * at University of Maryland Crypto Reading Group: October 2023
 
-- Post-Quantum Single Secret Leader Election (SSLE) From Publicly Re-randomizable Commitments \[[Slides](/static/SSLE_AFT2023_Talk.pptx)\]
-  * at Advances in Financial Technologies (AFT): October 2023 \[[Video](https://youtu.be/wNflhsGgPGs?si=Ai12rkAsp9TkLQ_r)\]
-
-- Proactive Refresh for Accountable Threshold Signatures \[[Slides](/static/MSR_PRATS_Final.pptx)\]
-  * at Financial Cryptography (FC): March 2024 \[[Video](https://youtu.be/N75I0Cc9Q_U?si=xS_dwzJ6qjaC6IQT)\]
+- **Proactive Refresh for Accountable Threshold Signatures** \[[Slides](/static/MSR_PRATS_Final.pptx)\]
   * at Microsoft Research Redmond Cryptography and Privacy Colloquium: June 2023
   * at Brown University Crypto Reading Group: May 2023
+
+### Conference and Workshop Presentations
+
+- **Traceable Secret Sharing Revisited**
+  * at IACR EuroCrypt: May 2026
+
+- **Optimal Threshold Traitor Tracing**
+  * at IACR EuroCrypt: May 2026
+
+- **Data Availability Sampling with Repair** \[[Slides](/static/SBC_Slides_V2.pptx)\]
+  * at Cryptographic Tools for Blockchains Workshop ([CTB](https://www.ctb-workshop.org/)): May 2026
+  * at the MIT Decentralized Coding Workshop: March 2026
+  * at Science of Blockchain Conference (SBC): August 2025
+
+- **Traceable Verifiable Random Functions** \[[Slides](/static/Traceable_VRF_SeminarV2.pptx)\]
+  * at IACR International Cryptography Conference (Crypto): August 2025
+  * at Cryptographic Tools for Blockchains Workshop ([CTB](https://www.ctb-workshop.org/)): May 2025
+  * at Bay Area Crypto Day: April 2025
+
+- **Traceable Secret Sharing: Strong Security and Efficient Constructions** \[[Slides](/static/CryptoDay_TraceableSS.pptx)\]
+  * at Conference on Information-Theoretic Cryptography (ITC): August 2025
+  * at Bay Area Crypto Day: April 2024
+
+- **Accountable Multi-Signatures with Constant Size Public Keys**
+  * at Public Key Cryptography Conference (PKC): May 2025
+
+- **Accountability for Misbehavior in Threshold Decryption via Threshold Traitor Tracing** \[[Slides](/static/Seminar_Threshold_Decryption_v2.pptx)\]
+  * at IACR International Cryptography Conference (Crypto): August 2024 \[[Video](https://youtu.be/yuXZXR8v_Po?list=PLeeS-3Ml-rprqjxP_UcoPRdnj1BmELWfp&t=1421)\]
+
+- **Proactive Refresh for Accountable Threshold Signatures** \[[Slides](/static/MSR_PRATS_Final.pptx)\]
+  * at Financial Cryptography (FC): March 2024 \[[Video](https://youtu.be/N75I0Cc9Q_U?si=xS_dwzJ6qjaC6IQT)\]
   * at Stanford Security Workshop: April 2023 \[[Video](https://www.youtube.com/watch?v=tE0wMcEnZAI&ab_channel=StanfordCSAffiliates)\]
   * at Bay Area Crypto Day: April 2023
+
+- **Post-Quantum Single Secret Leader Election (SSLE) From Publicly Re-randomizable Commitments** \[[Slides](/static/SSLE_AFT2023_Talk.pptx)\]
+  * at Advances in Financial Technologies (AFT): October 2023 \[[Video](https://youtu.be/wNflhsGgPGs?si=Ai12rkAsp9TkLQ_r)\]
 
 ---
 
@@ -167,7 +175,8 @@ Apart from work, I enjoy reading, travelling and social dancing.
 <!-- <span style="font-family:'Candara Light';"> -->
 - Instructor for CS355: Advanced Cryptography, Spring 2026. Co-taught with Rohit Nema and Trisha Datta \[[site](https://cs355.stanford.edu)\].
 - Instructor for CS355: Advanced Cryptography, Spring 2024. Co-taught with Wilson Nguyen and Trisha Datta \[[site](https://crypto.stanford.edu/cs355/24sp/)\].
-- External reviewer for EuroCrypt 2025-26 and Crypto 2023-25, AsiaCrypt and Theory of Cryptography (TCC) 2024-25 conferences.
+- External reviewer for EuroCrypt 2025-26 and Crypto 2023-25, AsiaCrypt and Theory of Cryptography (TCC) 2024-26 conferences.
+- Organizer of Stanford Security Seminar from Spring 2023 - Current.
 - Co-organizer of Graduate CS Women's Lunch at Stanford University.
 - Designed a puzzle for ZK-Hacks III, based on the Cheon attack, that can break the security of zk-SNARKs. Used arkworks to develop the [puzzle](https://zkhack.dev/zkhackIII/puzzleT2.html).
 <!-- - Among Top 100 students selected from universities across Europe, Asia & the Americas to attend the Cornell, Maryland, Max Planck Pre-doctoral Research School (CMMRS), 2018.  -->
