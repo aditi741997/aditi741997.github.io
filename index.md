@@ -35,6 +35,14 @@ Apart from work, I enjoy reading, travelling and social dancing.
 ---
 
 ## <span >Publications</span>
+- Lattice-Bingo: Asynchrony and One-Shot Adaptivity in Verifiable Secret Sharing via Erasure Code Commitments <br>
+    Ittai Abraham, Aniket Kate, *Aditi Partap*, Ertem Nusret Tas. <br>
+    *Submitted to EruoCrypt'27*
+
+- [Weighted Batch Threshold Encryption with Efficient DKG](https://eprint.iacr.org/2026/2053) <br>
+    Alexander Frolov, *Aditi Partap*, Max Resnick, Ertem Nusret Tas. <br>
+    *Submitted to EruoCrypt'27*
+
 - [Catching Many Traitors in Threshold Traitor Tracing: Lower Bounds and Constructions](https://eprint.iacr.org/2026/1523) <br>
     Dan Boneh, *Aditi Partap*, Mark Zhandry. <br>
     *Accepted at AsiaCrypt'26*
@@ -90,6 +98,7 @@ Apart from work, I enjoy reading, travelling and social dancing.
 
 - **Traceable Secret Sharing: From Thresholds to General Access Structures** \[[Slides](/static/Seminar_TraceableSS_August2026.pptx)\]  
   Based on [Traceable Secret Sharing: Strong Security and Efficient Constructions](https://eprint.iacr.org/2024/405) (Crypto 2024) and [Traceable Secret Sharing Revisited](https://eprint.iacr.org/2025/1980) (EuroCrypt 2026).
+  * at Columbia Cryptography Seminar: September 2026
   * at Google Cryptography Seminar: August 2026
   * at Amazon Cryptography Seminar: August 2026
   * at J.P. Morgan Chase Cryptography Seminar: July 2026
@@ -100,6 +109,8 @@ Apart from work, I enjoy reading, travelling and social dancing.
   * at University of California, Los Angeles Crypto Reading Group: April 2025
 
 - **Data Availability Sampling with Repair** \[[Slides](/static/SBC_Slides_V2.pptx)\]
+  * at Category Labs Research Seminar: September 2026 
+  * at Princeton Blockchain Seminar: September 2026
   * at Yale Applied Cryptography Seminar: May 2026
   * at Carnegie Mellon University CyLab Crypto Seminar: May 2026
   * at University of Michigan, Ann Arbor Crypto Reading Group: November 2025
