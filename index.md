@@ -9,7 +9,7 @@ description: Aditi Partap's website
 ---
 
 <span style="font-family:Georgia;">
-I am a fifth year CS Ph.D. student at Stanford University, where I work on cryptography research. I am advised by [Dan Boneh](https://crypto.stanford.edu/~dabo/). My current focus is on accountability in threshold cryptography and leader election protocols.
+I am a final year CS Ph.D. student at Stanford University, where I work on cryptography research. I am advised by [Dan Boneh](https://crypto.stanford.edu/~dabo/). My current focus is on accountability in threshold cryptography and leader election protocols.
 </span>
 
 <span style="font-family:Georgia;">
@@ -18,6 +18,10 @@ Prior to joining Stanford, I completed my Masters in May 2021 from University of
 
 <span style="font-family:Georgia;">
 Apart from work, I enjoy reading, travelling and social dancing.
+</span>
+
+<span style="font-family:Georgia; font-weight: bold;">
+I am on the academic job market this year and am seeking tenure-track faculty positions in computer science.
 </span>
 
 \[[CV](/static/Aditi_CV_Grad_Nov2025.pdf)\]  \[[Google Scholar](https://scholar.google.com/citations?user=XYNtWYwAAAAJ&hl=en)\]
@@ -37,11 +41,11 @@ Apart from work, I enjoy reading, travelling and social dancing.
 ## <span >Publications</span>
 - Lattice-Bingo: Asynchrony and One-Shot Adaptivity in Verifiable Secret Sharing via Erasure Code Commitments <br>
     Ittai Abraham, Aniket Kate, *Aditi Partap*, Ertem Nusret Tas. <br>
-    *Submitted to EruoCrypt'27*
+    *Submitted to EuroCrypt'27*
 
 - [Weighted Batch Threshold Encryption with Efficient DKG](https://eprint.iacr.org/2026/2053) <br>
     Alexander Frolov, *Aditi Partap*, Max Resnick, Ertem Nusret Tas. <br>
-    *Submitted to EruoCrypt'27*
+    *Submitted to EuroCrypt'27*
 
 - [Catching Many Traitors in Threshold Traitor Tracing: Lower Bounds and Constructions](https://eprint.iacr.org/2026/1523) <br>
     Dan Boneh, *Aditi Partap*, Mark Zhandry. <br>
