@@ -39,7 +39,7 @@ I am on the academic job market this year and am seeking tenure-track faculty po
 ---
 
 ## <span >Publications</span>
-- Lattice-Bingo: Asynchrony and One-Shot Adaptivity in Verifiable Secret Sharing via Erasure Code Commitments <br>
+- [Lattice-Bingo: Asynchrony and One-Shot Adaptivity in Verifiable Secret Sharing via Erasure Code Commitments](https://eprint.iacr.org/2026/2432) <br>
     Ittai Abraham, Aniket Kate, *Aditi Partap*, Ertem Nusret Tas. <br>
     *Submitted to EuroCrypt'27*
 
@@ -190,7 +190,7 @@ I am on the academic job market this year and am seeking tenure-track faculty po
 <!-- <span style="font-family:'Candara Light';"> -->
 - Instructor for CS355: Advanced Cryptography, Spring 2026. Co-taught with Rohit Nema and Trisha Datta \[[site](https://cs355.stanford.edu)\].
 - Instructor for CS355: Advanced Cryptography, Spring 2024. Co-taught with Wilson Nguyen and Trisha Datta \[[site](https://crypto.stanford.edu/cs355/24sp/)\].
-- External reviewer for EuroCrypt 2025-26 and Crypto 2023-25, AsiaCrypt and Theory of Cryptography (TCC) 2024-26 conferences.
+- External reviewer for EuroCrypt 2025-26 and Crypto 2023-25, AsiaCrypt and Theory of Cryptography (TCC) 2024-26 conferences and ITCS conference 2026-27.
 - Organizer of Stanford Security Seminar from Spring 2023 - Current.
 - Co-organizer of Graduate CS Women's Lunch at Stanford University.
 - Designed a puzzle for ZK-Hacks III, based on the Cheon attack, that can break the security of zk-SNARKs. Used arkworks to develop the [puzzle](https://zkhack.dev/zkhackIII/puzzleT2.html).
